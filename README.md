@@ -72,6 +72,7 @@ The ultimate goal? Finding better ways to work with higher-quality data, run mor
 </td>
 </tr>
 </table>
+
 ---
  
 ## Flagship Open Source Projects 🌟
@@ -128,6 +129,7 @@ In addition to the above also mentored and been a peer supporter to the students
 [![GitHub Metrics](https://metrics.lecoq.io/about/neomatrix369)](https://metrics.lecoq.io/about/neomatrix369)
  
 </div>
+
 ---
  
 ## What I Work With
@@ -156,8 +158,7 @@ DevOps          Docker · CI/CD · Linux · SDLC tooling
 Hardware        Movidius · FPGAs · Google Cloud TPUs · NVIDIA GPUs
  
 Practices       TDD · BDD · Software Craftsmanship · Code Review · Refactoring
-```
- 
+``` 
 ---
  
 <div align="center">
