@@ -2,7 +2,7 @@
 
 # Mani Sarkar
 
-**`Software Craftsman · AI/ML Engineer · Polyglot Developer · Open Source Advocate`**
+**`Software Craftsperson · AI/ML Engineer · Polyglot Developer · Open Source Advocate`**
 
 [![Twitter](https://img.shields.io/badge/Twitter-theNeomatrix369-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](http://twitter.com/theNeomatrix369/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-neomatrix369-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.online/@neomatrix369)
@@ -20,6 +20,8 @@
 ---
 
 ## Supercharging Teams Through Code & Innovation 🚀
+
+25+ years in the game, working shoulder-to-shoulder with founders, CTOs, and brilliant research teams to craft software that stands the test of time.
 
 As a polyglot software developer with 25+ years in the game, I'm all about strengthening teams and helping them accelerate using whatever tech magic we have at our disposal. You'll find me working shoulder-to-shoulder with founders, CTOs, and brilliant research teams, crafting software that not only works beautifully but stands the test of time.
 
