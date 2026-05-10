@@ -27,6 +27,7 @@ As a polyglot software developer with 25+ years in the game, I'm all about stren
  
 ---
  
+ 
 ### The Craft Behind the Code
  
 I'm a firm believer in doing things right the first time. Whether it's test-driven development (TDD), behaviour-driven development (BDD), or championing software craftsmanship principles, I bring methodology to the madness. My playground spans the entire Software Development Lifecycle — from reviewing code and breathing new life into legacy systems to test-driving fresh features and diving deep into DevOps.
@@ -41,7 +42,11 @@ I've had the privilege of running workshops and hands-on labs (both internal and
  
 ### Current Obsessions & Future Frontiers
  
-Right now, I'm completely fascinated by AI, Machine Learning, Data Analytics with R, stunning Data Visualisations (R & D3), Java Concurrency, and the incredible world of Graal/GraalVM/Truffle. I'm constantly pushing my boundaries in Benchmarking and Performance Tuning (see the RAG related projects in the **Flagship Open Source Projects** table below) — because who doesn't love making things run faster and better?
+Right now, I'm completely fascinated by AI, Machine Learning, LLMs, and RAG — building smarter pipelines, benchmarking retrieval strategies, and squeezing every drop of performance and quality out of the results.
+ 
+### Past Obsessions
+ 
+There was a time when I was equally captivated by Data Analytics with R, stunning Data Visualisations (R & D3), Java Concurrency, and the incredible world of Graal/GraalVM/Truffle. That work shaped a lot of how I think about performance, correctness, and elegant systems — and it lives on in projects like **awesome-graal** and the Kaggle kernels.
  
 ### The Eternal Student
  
@@ -72,12 +77,11 @@ The ultimate goal? Finding better ways to work with higher-quality data, run mor
 </td>
 </tr>
 </table>
-
 ---
  
 ## Flagship Open Source Projects 🌟
  
-> 12+ years of consistent F/OSS contributions · [Full metrics →](https://metrics.lecoq.io/about/neomatrix369)
+> 12+ years of consistent F/OSS contributions
  
 | Project | What it does | Impact |
 |---|---|---|
@@ -94,7 +98,7 @@ The ultimate goal? Finding better ways to work with higher-quality data, run mor
 | [**Kaggle: Normalising a distribution**](https://www.kaggle.com/neomatrix369/normalising-a-distribution) | Published research kernel bridging statistical theory and practice | Peer reviewed |
 | [**Kaggle: Limitations of stats measurements**](https://www.kaggle.com/neomatrix369/studying-the-limitations-of-stats-measurements) | Deep-dive research on the boundaries of statistical measurement | Peer reviewed |
  
-Active contributor to **[Adopt OpenJDK](https://adoptopenjdk.net/)** and **[GraalVM](https://www.graalvm.org/)** — bridging cutting-edge open-source innovation and practical business solutions. Deep community involvement gives teams early access to emerging patterns, best practices, and a valuable network of industry connections.
+Contributed actively to **[Adopt OpenJDK](https://adoptopenjdk.net/)** and **[GraalVM](https://www.graalvm.org/)** in the past — that body of work lives on in the **awesome-graal** resource hub above.
  
 ---
  
@@ -113,23 +117,20 @@ Active contributor to **[Adopt OpenJDK](https://adoptopenjdk.net/)** and **[Graa
 ## Mentoring & Community Impact
  
 I've mentored participants across multiple **[KaggleX BIPOC Mentorship](https://www.kaggle.com/kagglex-bipoc-mentorship-program)** cohorts (**2022–2025**), starting with the **December 2022 – March 2023** program organised by [Kaggle](https://kaggle.com). It's been incredibly rewarding — a true two-way learning experience where I've grown as much as I've helped others. The outcomes and feedback are visible on my [LinkedIn](https://www.linkedin.com/in/mani-sarkar/) and [Twitter](http://twitter.com/theNeomatrix369/) feeds, showcasing the amazing work these talented individuals have accomplished.
-
-In addition to the above also mentored and been a peer supporter to the students of the AIMakerspace Engineering bootcamp and the onramp courses.
+ 
+In addition to the above also mentored and been a peer supporter to the students of the [AIMakerspace](https://aimakerspace.io/) Engineering bootcamp and the onramp courses.
  
 ---
  
 ## GitHub Stats
  
 <div align="center">
-![Mani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neomatrix369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)&nbsp;&nbsp;
+![Mani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neomatrix369&show_icons=true&theme=tokyonight&hide_border=true)&nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neomatrix369&layout=compact&theme=tokyonight&hide_border=true)
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=neomatrix369&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
  
-[![GitHub Metrics](https://metrics.lecoq.io/about/neomatrix369)](https://metrics.lecoq.io/about/neomatrix369)
- 
 </div>
-
 ---
  
 ## What I Work With
@@ -158,7 +159,8 @@ DevOps          Docker · CI/CD · Linux · SDLC tooling
 Hardware        Movidius · FPGAs · Google Cloud TPUs · NVIDIA GPUs
  
 Practices       TDD · BDD · Software Craftsmanship · Code Review · Refactoring
-``` 
+```
+ 
 ---
  
 <div align="center">
