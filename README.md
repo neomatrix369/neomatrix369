@@ -1,3 +1,7 @@
+<div align="center">
+
+# Mani Sarkar
+ 
 **`Software Craftsperson · AI/ML Engineer · 4× Kaggle Expert · Polyglot Developer · Open Source Advocate`**
  
 [![Twitter](https://img.shields.io/badge/Twitter-theNeomatrix369-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](http://twitter.com/theNeomatrix369/)
