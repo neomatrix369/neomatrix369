@@ -2,7 +2,11 @@
 
 # Mani Sarkar
 
-**`Software Craftsperson · AI/ML Engineer · 4× Kaggle Expert · Polyglot Developer · Open Source Advocate`**
+## 👋 About Me
+
+Data & AI consultant, mentor, and community builder. Known for making AI accessible — from client delivery to internal upskilling, workshops, and ML career talks.
+
+**`Software Craftsperson · 🤖 AI/ML Engineer · 🏆 4× Kaggle Expert · 🧠 Polyglot Developer/Engineer · Open Source Advocate · ☕ Java Champion · 💬 Speaker`**
 
 [![Twitter](https://img.shields.io/badge/Twitter-theNeomatrix369-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](http://twitter.com/theNeomatrix369/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-neomatrix369-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.online/@neomatrix369)
@@ -24,6 +28,10 @@
 > 25+ years in the game, working shoulder-to-shoulder with founders, CTOs, and brilliant research teams to craft software that stands the test of time.
 
 As a polyglot software developer with 25+ years in the game, I'm all about strengthening teams and helping them accelerate using whatever tech magic we have at our disposal. You'll find me working shoulder-to-shoulder with founders, CTOs, and brilliant research teams, crafting software that not only works beautifully but stands the test of time.
+
+**Security Champion** — internal Threat Modelling upskilling; recognised as *"Inspiring Coach"* by peers.  
+**AI/ML Ambassador** — peer-recognised as *"Growth Minded"* and *"Helping Hand"* SME; 
+externally as Kaggle Expert, KaggleX BIPOC Mentor, Certified AI Engineer.
 
 ---
 
