@@ -2,7 +2,7 @@
 
 # Mani Sarkar
 
-**`Software Craftsperson · 🤖 AI/ML Engineer · 🏆 4× Kaggle Expert · 🧠 Polyglot Developer/Engineer · Open Source Advocate · ☕ Java Champion · 💬 Speaker`**
+**`🤖 AI/ML Engineer · 🏆 4× Kaggle Expert · 💬 Speaker · Open Source Advocate · Software Craftsperson · ☕ Java Champion`**
 
 [![Twitter](https://img.shields.io/badge/Twitter-theNeomatrix369-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](http://twitter.com/theNeomatrix369/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-neomatrix369-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.online/@neomatrix369)
@@ -57,7 +57,7 @@ There was a time when I was equally captivated by Data Analytics with R, stunnin
 
 ### The Eternal Student
 
-When I'm not coding for work, you'll find me at conferences, workshops, and events, getting my hands dirty with the latest tech. I'm like a kid in a candy store when it comes to hardware accelerators — Movidius chips, FPGAs, Google's Cloud TPUs, GPUs, exotic Python packages. My GitHub repos and blogs are basically my digital laboratory where I document these adventures.
+When I'm not coding for work, you'll find me at conferences, workshops, and events, getting my hands dirty with the latest tech. I'm like a kid in a candy store when it comes to the Python ecosystem, hardware accelerators — Movidius chips, FPGAs, Google's Cloud TPUs, GPUs. My GitHub repos and blogs are basically my digital laboratory where I document these adventures.
 
 The ultimate goal? Finding better ways to work with higher-quality data, run more elegant experiments, and squeeze every drop of performance and quality from our results. It's not just about writing code — it's about crafting solutions that make a real difference.
 
@@ -70,19 +70,19 @@ The ultimate goal? Finding better ways to work with higher-quality data, run mor
 <table>
 <tr>
 <td align="center" width="190">
-🏺<br/><strong>Software Craftsperson</strong><br/><sub>2016</sub>
+🤖<br/><strong>Certified AI Engineer</strong><br/><sub><a href="https://aimakerspace.io/the-ai-engineering-bootcamp/">AI Makerspace</a> · 10-week intensive</sub>
 </td>
 <td align="center" width="190">
-☕<br/><strong>Java Champion</strong><br/><sub>2018</sub>
+🎯<br/><strong>4× Kaggle Expert</strong><br/><sub>Competitions · Notebooks · Datasets · Discussions</sub>
 </td>
 <td align="center" width="190">
 🏅<br/><strong>Oracle Groundbreaker Award</strong><br/><sub>2019</sub>
 </td>
 <td align="center" width="190">
-🤖<br/><strong>Certified AI Engineer</strong><br/><sub><a href="https://aimakerspace.io/the-ai-engineering-bootcamp/">AI Makerspace</a> · 10-week intensive</sub>
+🏺<br/><strong>Software Craftsperson</strong><br/><sub>2016</sub>
 </td>
 <td align="center" width="190">
-🎯<br/><strong>4× Kaggle Expert</strong><br/><sub>Competitions · Notebooks · Datasets · Discussions</sub>
+☕<br/><strong>Java Champion</strong><br/><sub>2018</sub>
 </td>
 </tr>
 </table>
@@ -168,7 +168,7 @@ In addition to the above also mentored and been a peer supporter to the students
 
 ## What I Work With
 
-**AI/ML · RAG/LLMs · Java · Python · TDD · Open Source**
+**AI/ML · RAG/LLMs · Python · TDD · Open Source**
 
 <details>
 <summary><strong>Full tech stack ↓</strong></summary>
@@ -176,7 +176,7 @@ In addition to the above also mentored and been a peer supporter to the students
 <br/>
 
 ```
-Languages       Java · Python · R · Scala
+Languages       Python · Java · R · Scala
 
 LLMs & RAG      OpenAI · LLM application development · RAG pipelines · vector embeddings
                 chunking strategies · hybrid search · semantic search · multi-agent systems
@@ -188,17 +188,17 @@ AI / ML         TensorFlow · PyTorch · Jupyter · in-browser ML models
 
 Backend         FastAPI · REST API design & unification · Java services
 
-JVM             GraalVM · Truffle · Adopt OpenJDK · JVM Performance Tuning
-                Java Concurrency · HotSpot JIT analysis
+Practices       TDD · BDD · Software Craftsmanship · Code Review · Refactoring
 
 Data            R (analytics) · D3.js (visualisation) · data engineering pipelines
                 document parsing · fact extraction · causal inference
 
 DevOps          Docker · CI/CD · Linux · SDLC tooling
 
-Hardware        Movidius · FPGAs · Google Cloud TPUs · NVIDIA GPUs
+JVM / Legacy    GraalVM · Truffle · Adopt OpenJDK · JVM Performance Tuning
+                Java Concurrency · HotSpot JIT analysis
 
-Practices       TDD · BDD · Software Craftsmanship · Code Review · Refactoring
+Hardware        Movidius · FPGAs · Google Cloud TPUs · NVIDIA GPUs
 ```
 
 </details>
