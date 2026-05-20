@@ -23,7 +23,7 @@
 
 > 25+ years in the game, working shoulder-to-shoulder with founders, CTOs, and brilliant research teams to craft software that stands the test of time.
 
-Data & AI consultant, mentor, and community builder. Known for making AI accessible — from client delivery to internal upskilling, workshops, and ML career talks.
+Data & AI engineer, mentor, and community builder. Known for making AI accessible — from client delivery to internal upskilling, workshops, and ML career talks.
 
 - 🛡️ **Security Champion** — internal Threat Modelling upskilling; recognised as *"Inspiring Coach"* by peers
 - 🤖 **AI/ML Ambassador** — peer-recognised as *"Growth Minded"* and *"Helping Hand"* SME; externally as Kaggle Expert, KaggleX BIPOC Mentor, Certified AI Engineer
