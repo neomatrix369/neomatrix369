@@ -6,7 +6,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-theNeomatrix369-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](http://twitter.com/theNeomatrix369/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-neomatrix369-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.online/@neomatrix369)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mani--sarkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-sarkar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mani--sarkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-sarkar)
 [![Kaggle](https://img.shields.io/badge/Kaggle-4×%20Expert-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/neomatrix369)
 [![Medium](https://img.shields.io/badge/Medium-@neomatrix369-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@neomatrix369)
 [![Blog](https://img.shields.io/badge/Blog-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://neomatrix369.wordpress.com/)
@@ -145,7 +145,7 @@ Mentored across **[KaggleX BIPOC](https://www.kaggle.com/kagglex-bipoc-mentorshi
 
 <br/>
 
-I've mentored participants across multiple **[KaggleX BIPOC Mentorship](https://www.kaggle.com/kagglex-bipoc-mentorship-program)** cohorts (**2022–2025**), starting with the **December 2022 – March 2023** program organised by [Kaggle](https://kaggle.com). It's been incredibly rewarding — a true two-way learning experience where I've grown as much as I've helped others. The outcomes and feedback are visible on my [LinkedIn](https://www.linkedin.com/in/mani-sarkar/) and [Twitter](http://twitter.com/theNeomatrix369/) feeds, showcasing the amazing work these talented individuals have accomplished.
+I've mentored participants across multiple **[KaggleX BIPOC Mentorship](https://www.kaggle.com/kagglex-bipoc-mentorship-program)** cohorts (**2022–2025**), starting with the **December 2022 – March 2023** program organised by [Kaggle](https://kaggle.com). It's been incredibly rewarding — a true two-way learning experience where I've grown as much as I've helped others. The outcomes and feedback are visible on my [LinkedIn](https://www.linkedin.com/in/mani-sarkar) and [Twitter](http://twitter.com/theNeomatrix369/) feeds, showcasing the amazing work these talented individuals have accomplished.
 
 In addition to the above also mentored and been a peer supporter to the students of the [AIMakerspace](https://aimakerspace.io/) Engineering bootcamp and the onramp courses.
 
@@ -213,6 +213,6 @@ Hardware        Movidius · FPGAs · Google Cloud TPUs · NVIDIA GPUs
 
 *Find me talking, writing, or building at one of these:*
 
-[Twitter](http://twitter.com/theNeomatrix369/) · [Mastodon](https://mastodon.online/@neomatrix369) · [LinkedIn](https://www.linkedin.com/in/mani-sarkar/) · [Medium](https://medium.com/@neomatrix369) · [Kaggle](https://www.kaggle.com/neomatrix369) · [GitHub](https://github.com/neomatrix369/) · [SlideShare](https://www.slideshare.net/neomatrix369/) · [Lanyrd](https://lanyrd.com/profile/neomatrix369/) · [Blog](https://neomatrix369.wordpress.com/) · [YouTube — Channel](https://www.youtube.com/user/neomatrix369/) · [YouTube — Playlists](https://www.youtube.com/user/neomatrix369/playlists)
+[Twitter](http://twitter.com/theNeomatrix369/) · [Mastodon](https://mastodon.online/@neomatrix369) · [LinkedIn](https://www.linkedin.com/in/mani-sarkar) · [Medium](https://medium.com/@neomatrix369) · [Kaggle](https://www.kaggle.com/neomatrix369) · [GitHub](https://github.com/neomatrix369/) · [SlideShare](https://www.slideshare.net/neomatrix369/) · [Lanyrd](https://lanyrd.com/profile/neomatrix369/) · [Blog](https://neomatrix369.wordpress.com/) · [YouTube — Channel](https://www.youtube.com/user/neomatrix369/) · [YouTube — Playlists](https://www.youtube.com/user/neomatrix369/playlists)
 
 </div>
