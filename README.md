@@ -158,9 +158,13 @@ In addition to the above also mentored and been a peer supporter to the students
 
 <div align="center">
 
+[![GitHub Trophies](https://github-trophies.vercel.app/?username=neomatrix369&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/neomatrix369)
+
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=neomatrix369&theme=tokyonight&hide_border=true&starting_year=2012&mode=weekly)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neomatrix369&theme=tokyo-night&hide_border=true&area=true)](https://github.com/neomatrix369)
+
+[📊 GitHub Metrics Insights →](https://metrics.lecoq.io/insights/neomatrix369)
 
 </div>
 
