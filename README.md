@@ -2,11 +2,11 @@
 
 # Mani Sarkar
 
-**`🤖 AI/ML Engineer · 🏆 4× Kaggle Expert · 💬 Speaker · Open Source Advocate · Software Craftsperson · ☕ Java Champion`**
+**`🤖 Certified AI Engineer · 🏆 4× Kaggle Expert · 💬 Speaker · Open Source Advocate · Software Craftsperson · ☕ Java Champion`**
 
 [![Twitter](https://img.shields.io/badge/Twitter-theNeomatrix369-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](http://twitter.com/theNeomatrix369/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-neomatrix369-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.online/@neomatrix369)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mani--sarkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-sarkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mani--sarkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-sarkar/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-4×%20Expert-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/neomatrix369)
 [![Medium](https://img.shields.io/badge/Medium-@neomatrix369-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@neomatrix369)
 [![Blog](https://img.shields.io/badge/Blog-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://neomatrix369.wordpress.com/)
@@ -23,7 +23,7 @@
 
 > 25+ years in the game, working shoulder-to-shoulder with founders, CTOs, and brilliant research teams to craft software that stands the test of time.
 
-Data & AI engineer, mentor, and community builder. Known for making AI accessible — from client delivery to internal upskilling, workshops, and ML career talks.
+Data & AI consultant, mentor, and community builder. Known for making AI accessible — from client delivery to internal upskilling, workshops, and ML career talks.
 
 - 🛡️ **Security Champion** — internal Threat Modelling upskilling; recognised as *"Inspiring Coach"* by peers
 - 🤖 **AI/ML Ambassador** — peer-recognised as *"Growth Minded"* and *"Helping Hand"* SME; externally as Kaggle Expert, KaggleX BIPOC Mentor, Certified AI Engineer
@@ -95,13 +95,14 @@ The ultimate goal? Finding better ways to work with higher-quality data, run mor
 
 | Project | What it does | Impact |
 |---|---|---|
-| [**rag-params-finder**](https://github.com/neomatrix369/rag-params-finder) | Systematic RAG parameter sweep tool — evaluates embedding models, chunking strategies, and retrieval methods using MongoDB Atlas Vector Search and Voyage AI | **6 ⭐ · Active** |
-| [**pre-rag-explorer-dashboard**](https://github.com/neomatrix369/pre-rag-explorer-dashboard) | Pre-RAG prototype dashboard for document parsing, multi-method chunking, vector embedding generation, and hybrid search exploration — powered by in-browser ML | **5 ⭐ · Active** |
+| [**rag-params-finder**](https://github.com/neomatrix369/rag-params-finder) | Systematic RAG parameter sweep tool — evaluates embedding models, chunking strategies, and retrieval methods using MongoDB Atlas Vector Search and Voyage AI | **12 ⭐ · 4 forks** |
+| [**pre-rag-explorer-dashboard**](https://github.com/neomatrix369/pre-rag-explorer-dashboard) | Pre-RAG prototype dashboard for document parsing, multi-method chunking, vector embedding generation, and hybrid search exploration — powered by in-browser ML | **6 ⭐ · 3 forks** |
 | [**AIE7-Demo-Day-Project** (RagCheck)](https://github.com/neomatrix369/AIE7-Demo-Day-Project) | Proactive RAG corpus quality assessment — analyses document collections *before* deployment, identifies content gaps, and delivers specific improvement recommendations | **12 ⭐ · Python · TypeScript** |
 | [**playgroup_202602_docextract**](https://github.com/neomatrix369/playgroup_202602_docextract) | Multi-LLM benchmark: extracts structured fields from UK charity PDFs (Kleister dataset) across **52 models** (OpenRouter + Doubleword Batch API), scored by F1, precision, recall, cost, and time. Key finding: the cheapest Doubleword model (`dw-qwen3.5-9b`, $0.04/M tokens) hits F1=0.927 — 3rd overall, beating premium models at ~3.6× lower cost. Ships with an interactive 8-tab HTML playground (rankings, field heatmaps, error breakdown, provider analysis) | **Python · HTML · 77 commits** |
 | [**microgpt-experiments**](https://github.com/neomatrix369/microgpt-experiments) | Minimal, stdlib-only, dependency-free character-level GPT in pure Python — scalar autograd, multi-head causal attention, Adam with bias correction. Built for learning transformer internals, with a rigorous benchmarking framework: head-count ablation studies (N\_HEAD: 1 vs 4), training step sweeps, run reports encoding the full config in the filename, `compare_run_reports.py` for loss/config diffs between runs, HTML multi-run comparison with ASCII loss graphs and 3-tier semantic quality scoring (real / plausible / nonsense) | **Python · stdlib only** |
-| [**awesome-ai-ml-dl**](https://github.com/neomatrix369/awesome-ai-ml-dl) | Comprehensive AI/ML/DL study notes & curated resources — dedicated to engineers, data scientists, and researchers worldwide | **1,664 ⭐ · 373 forks** |
-| [**nlp_profiler**](https://github.com/neomatrix369/nlp_profiler) | Drop a Pandas dataframe in, get sentiment, grammar quality, readability, spelling scores and 30+ text features back — like `pandas.describe()` but for text | **228+ ⭐ · 35 forks · Presented at NLP Zurich 2020** |
+| [**nanoGPT_playgroup_202602**](https://github.com/neomatrix369/nanoGPT_playgroup_202602) | Hands-on GPT training and finetuning lab built on Karpathy's nanoGPT — extended with Chinchilla scaling laws analysis (`scaling_laws.ipynb`), transformer parameter sizing (`transformer_sizing.ipynb`), and systematic benchmarking (`bench.py`). Covers GPT-2 reproduction on OpenWebText and finetuning on custom datasets, with a focus on understanding model behaviour through empirical measurement | **Python · 236 commits** |
+| [**awesome-ai-ml-dl**](https://github.com/neomatrix369/awesome-ai-ml-dl) | Comprehensive AI/ML/DL study notes & curated resources — dedicated to engineers, data scientists, and researchers worldwide | **1.7k+ ⭐ · 373 forks** |
+| [**nlp_profiler**](https://github.com/neomatrix369/nlp_profiler) | Drop a Pandas dataframe in, get sentiment, grammar quality, readability, spelling scores and 30+ text features back — like `pandas.describe()` but for text | **244 ⭐ · 37 forks · Presented at NLP Zurich 2020** |
 
 <details>
 <summary><strong>More projects ↓</strong></summary>
@@ -110,8 +111,8 @@ The ultimate goal? Finding better ways to work with higher-quality data, run mor
 
 | Project | What it does | Impact |
 |---|---|---|
-| [**awesome-graal**](https://github.com/neomatrix369/awesome-graal) | The definitive curated resource hub for GraalVM, Truffle, and polyglot JVM — covering Java, Python, R, Ruby, JS, LLVM runtimes | **344+ ⭐ · 30 forks** |
-| [**refactoring-developer-habits**](https://github.com/neomatrix369/refactoring-developer-habits) | Collaborative TDD manifesto — a community-shaped guide to developer habits and the TDD lifecycle, born at SoCraTes UK 2013 | **118+ ⭐ · 32 forks · Presented at LSCC 2016** |
+| [**awesome-graal**](https://github.com/neomatrix369/awesome-graal) | The definitive curated resource hub for GraalVM, Truffle, and polyglot JVM — covering Java, Python, R, Ruby, JS, LLVM runtimes | **369 ⭐ · 28 forks** |
+| [**refactoring-developer-habits**](https://github.com/neomatrix369/refactoring-developer-habits) | Collaborative TDD manifesto — a community-shaped guide to developer habits and the TDD lifecycle, born at SoCraTes UK 2013 | **141 ⭐ · 32 forks · Presented at LSCC 2016** |
 | [**learning-path-index**](https://github.com/neomatrix369/learning-path-index) | Data, assets, and code powering a structured Learning Path Index project | **18 ⭐ · 17 forks** |
 | [**RESTAPIUnifier**](https://github.com/neomatrix369/RESTAPIUnifier) | Brings together APIs of various REST formats under one unified interface | **8 ⭐ · 7 forks · Java** |
 | [**better-nlp**](http://bit.ly/better-nlp-launch) | NLP library making advanced natural language processing accessible to all | Open source |
@@ -145,7 +146,7 @@ Mentored across **[KaggleX BIPOC](https://www.kaggle.com/kagglex-bipoc-mentorshi
 
 <br/>
 
-I've mentored participants across multiple **[KaggleX BIPOC Mentorship](https://www.kaggle.com/kagglex-bipoc-mentorship-program)** cohorts (**2022–2025**), starting with the **December 2022 – March 2023** program organised by [Kaggle](https://kaggle.com). It's been incredibly rewarding — a true two-way learning experience where I've grown as much as I've helped others. The outcomes and feedback are visible on my [LinkedIn](https://www.linkedin.com/in/mani-sarkar) and [Twitter](http://twitter.com/theNeomatrix369/) feeds, showcasing the amazing work these talented individuals have accomplished.
+I've mentored participants across multiple **[KaggleX BIPOC Mentorship](https://www.kaggle.com/kagglex-bipoc-mentorship-program)** cohorts (**2022–2025**), starting with the **December 2022 – March 2023** program organised by [Kaggle](https://kaggle.com). It's been incredibly rewarding — a true two-way learning experience where I've grown as much as I've helped others. The outcomes and feedback are visible on my [LinkedIn](https://www.linkedin.com/in/mani-sarkar/) and [Twitter](http://twitter.com/theNeomatrix369/) feeds, showcasing the amazing work these talented individuals have accomplished.
 
 In addition to the above also mentored and been a peer supporter to the students of the [AIMakerspace](https://aimakerspace.io/) Engineering bootcamp and the onramp courses.
 
@@ -188,17 +189,17 @@ AI / ML         TensorFlow · PyTorch · Jupyter · in-browser ML models
 
 Backend         FastAPI · REST API design & unification · Java services
 
-Practices       TDD · BDD · Software Craftsmanship · Code Review · Refactoring
+JVM / Legacy    GraalVM · Truffle · Adopt OpenJDK · JVM Performance Tuning
+                Java Concurrency · HotSpot JIT analysis
 
 Data            R (analytics) · D3.js (visualisation) · data engineering pipelines
                 document parsing · fact extraction · causal inference
 
 DevOps          Docker · CI/CD · Linux · SDLC tooling
 
-JVM / Legacy    GraalVM · Truffle · Adopt OpenJDK · JVM Performance Tuning
-                Java Concurrency · HotSpot JIT analysis
-
 Hardware        Movidius · FPGAs · Google Cloud TPUs · NVIDIA GPUs
+
+Practices       TDD · BDD · Software Craftsmanship · Code Review · Refactoring
 ```
 
 </details>
@@ -213,6 +214,6 @@ Hardware        Movidius · FPGAs · Google Cloud TPUs · NVIDIA GPUs
 
 *Find me talking, writing, or building at one of these:*
 
-[Twitter](http://twitter.com/theNeomatrix369/) · [Mastodon](https://mastodon.online/@neomatrix369) · [LinkedIn](https://www.linkedin.com/in/mani-sarkar) · [Medium](https://medium.com/@neomatrix369) · [Kaggle](https://www.kaggle.com/neomatrix369) · [GitHub](https://github.com/neomatrix369/) · [SlideShare](https://www.slideshare.net/neomatrix369/) · [Lanyrd](https://lanyrd.com/profile/neomatrix369/) · [Blog](https://neomatrix369.wordpress.com/) · [YouTube — Channel](https://www.youtube.com/user/neomatrix369/) · [YouTube — Playlists](https://www.youtube.com/user/neomatrix369/playlists)
+[Twitter](http://twitter.com/theNeomatrix369/) · [Mastodon](https://mastodon.online/@neomatrix369) · [LinkedIn](https://www.linkedin.com/in/mani-sarkar/) · [Medium](https://medium.com/@neomatrix369) · [Kaggle](https://www.kaggle.com/neomatrix369) · [GitHub](https://github.com/neomatrix369/) · [SlideShare](https://www.slideshare.net/neomatrix369/) · [Lanyrd](https://lanyrd.com/profile/neomatrix369/) · [Blog](https://neomatrix369.wordpress.com/) · [YouTube — Channel](https://www.youtube.com/user/neomatrix369/) · [YouTube — Playlists](https://www.youtube.com/user/neomatrix369/playlists)
 
 </div>
