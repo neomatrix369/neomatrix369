@@ -158,10 +158,9 @@ In addition to the above also mentored and been a peer supporter to the students
 
 <div align="center">
 
-![Mani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neomatrix369&show_icons=true&theme=tokyonight&hide_border=true)&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neomatrix369&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=neomatrix369&theme=tokyonight&hide_border=true&starting_year=2012&mode=weekly)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=neomatrix369&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neomatrix369&theme=tokyo-night&hide_border=true&area=true)](https://github.com/neomatrix369)
 
 </div>
 
