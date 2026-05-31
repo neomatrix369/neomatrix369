@@ -8,6 +8,7 @@
 [![Mastodon](https://img.shields.io/badge/Mastodon-neomatrix369-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.online/@neomatrix369)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mani--sarkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-sarkar/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-4×%20Expert-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/neomatrix369)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-neomatrix369-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/neomatrix369)
 [![Medium](https://img.shields.io/badge/Medium-@neomatrix369-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@neomatrix369)
 [![Blog](https://img.shields.io/badge/Blog-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://neomatrix369.wordpress.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/user/neomatrix369/)
@@ -111,6 +112,7 @@ The ultimate goal? Finding better ways to work with higher-quality data, run mor
 
 | Project | What it does | Impact |
 |---|---|---|
+| [**HuggingFace Datasets**](https://huggingface.co/neomatrix369/datasets) | 16 published datasets spanning LLM evaluation and rollout experiments — covering GPT-4.1-mini, GPT-5-nano, Qwen3, Laguna, and Mistral models. Active contributor to [Poolside Laguna XS.2](https://huggingface.co/poolside-laguna-hackathon) and [Mistral Hack-a-ton 2026](https://huggingface.co/mistral-hackaton-2026) hackathon orgs | **16 datasets · Active** |
 | [**awesome-graal**](https://github.com/neomatrix369/awesome-graal) | The definitive curated resource hub for GraalVM, Truffle, and polyglot JVM — covering Java, Python, R, Ruby, JS, LLVM runtimes | **369 ⭐ · 28 forks** |
 | [**refactoring-developer-habits**](https://github.com/neomatrix369/refactoring-developer-habits) | Collaborative TDD manifesto — a community-shaped guide to developer habits and the TDD lifecycle, born at SoCraTes UK 2013 | **141 ⭐ · 32 forks · Presented at LSCC 2016** |
 | [**learning-path-index**](https://github.com/neomatrix369/learning-path-index) | Data, assets, and code powering a structured Learning Path Index project | **18 ⭐ · 17 forks** |
@@ -182,7 +184,7 @@ In addition to the above also mentored and been a peer supporter to the students
 ```
 Languages       Python · Java · R · Scala
 
-LLMs & RAG      OpenAI · LLM application development · RAG pipelines · vector embeddings
+LLMs & RAG      OpenAI · Hugging Face · LLM application development · RAG pipelines · vector embeddings
                 chunking strategies · hybrid search · semantic search · multi-agent systems
                 Voyage AI · MongoDB Atlas Vector Search · MCP (Model Context Protocol)
                 microgpt / nanoGPT experimentation
@@ -217,6 +219,6 @@ Practices       TDD · BDD · Software Craftsmanship · Code Review · Refactori
 
 *Find me talking, writing, or building at one of these:*
 
-[Twitter](http://twitter.com/theNeomatrix369/) · [Mastodon](https://mastodon.online/@neomatrix369) · [LinkedIn](https://www.linkedin.com/in/mani-sarkar/) · [Medium](https://medium.com/@neomatrix369) · [Kaggle](https://www.kaggle.com/neomatrix369) · [GitHub](https://github.com/neomatrix369/) · [SlideShare](https://www.slideshare.net/neomatrix369/) · [Lanyrd](https://lanyrd.com/profile/neomatrix369/) · [Blog](https://neomatrix369.wordpress.com/) · [YouTube — Channel](https://www.youtube.com/user/neomatrix369/) · [YouTube — Playlists](https://www.youtube.com/user/neomatrix369/playlists)
+[Twitter](http://twitter.com/theNeomatrix369/) · [Mastodon](https://mastodon.online/@neomatrix369) · [LinkedIn](https://www.linkedin.com/in/mani-sarkar/) · [Medium](https://medium.com/@neomatrix369) · [Kaggle](https://www.kaggle.com/neomatrix369) · [HuggingFace](https://huggingface.co/neomatrix369) · [GitHub](https://github.com/neomatrix369/) · [SlideShare](https://www.slideshare.net/neomatrix369/) · [Lanyrd](https://lanyrd.com/profile/neomatrix369/) · [Blog](https://neomatrix369.wordpress.com/) · [YouTube — Channel](https://www.youtube.com/user/neomatrix369/) · [YouTube — Playlists](https://www.youtube.com/user/neomatrix369/playlists)
 
 </div>
