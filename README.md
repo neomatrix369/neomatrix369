@@ -22,7 +22,7 @@
 
 ## Supercharging Teams Through Code & Innovation 🚀
 
-> 25+ years in the game, working shoulder-to-shoulder with founders, CTOs, and brilliant research teams to craft software that stands the test of time.
+> 25+ years in the game, working shoulder-to-shoulder with founders, CTOs, and brilliant research & engineering teams to craft software that stands the test of time.
 
 Data & AI consultant, mentor, and community builder. Known for making AI accessible — from client delivery to internal upskilling, workshops, and ML career talks.
 
