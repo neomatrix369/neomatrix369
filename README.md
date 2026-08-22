@@ -13,6 +13,7 @@
 [![Blog](https://img.shields.io/badge/Blog-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://neomatrix369.wordpress.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/user/neomatrix369/)
 [![SlideShare](https://img.shields.io/badge/SlideShare-Talks-0077B5?style=flat-square&logo=slideshare&logoColor=white)](https://www.slideshare.net/neomatrix369/)
+[![Live Demos](https://img.shields.io/badge/Live_Demos-neomatrix369.github.io-c4a574?style=flat-square&logo=githubpages&logoColor=white)](https://neomatrix369.github.io/)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=neomatrix369&style=flat-square&color=brightgreen)](https://github.com/neomatrix369)
 
@@ -26,7 +27,7 @@
 
 Data & AI consultant, mentor, and community builder. Known for making AI accessible — from client delivery to internal upskilling, workshops, and ML career talks.
 
-- 🛡️ **Security Champion** — internal Threat Modelling upskilling; recognised as *"Inspiring Coach"* by peers; builder of [Tripwire](https://github.com/neomatrix369/tripwire), a sandboxed MCP/AI skills security scanner
+- 🛡️ **Security Champion** — internal Threat Modelling upskilling; recognised as *"Inspiring Coach"* by peers; builder of [Tripwire](https://github.com/neomatrix369/tripwire) ([hosted dashboard](https://neomatrix369.github.io/demos/tripwire-dashboard/)), a sandboxed MCP/AI skills security scanner
 - 🤖 **AI/ML Ambassador** — peer-recognised as *"Growth Minded"* and *"Helping Hand"* SME; externally as Kaggle Expert, KaggleX BIPOC Mentor, Certified AI Engineer
 
 <details>
@@ -90,18 +91,33 @@ The ultimate goal? Finding better ways to work with higher-quality data, run mor
 
 ---
 
+## Live demos & benchmarks 🌐
+
+Interactive pages hosted on **[neomatrix369.github.io](https://neomatrix369.github.io/)** — open in the browser, no clone required.
+
+| Demo | Link |
+|---|---|
+| **All projects & demos** | [neomatrix369.github.io](https://neomatrix369.github.io/) · [Projects hub](https://neomatrix369.github.io/pages/projects.html) |
+| **Doc extract playground** (111 runs, 21 snapshots) | [Playground archive](https://neomatrix369.github.io/demos/playgroup-202602-docextract/) · [Write-up](https://neomatrix369.github.io/pages/playgroup-202602-docextract.html) |
+| **Doubleword extraction guide** | [Video walkthrough](https://neomatrix369.github.io/demos/playgroup-202602-docextract/extractor-all-doubleword.html) |
+| **Tripwire dashboard** | [Live demo](https://neomatrix369.github.io/demos/tripwire-dashboard/) |
+| **py-bug-trace sweep** (Poolside Laguna hackathon) | [Explorer](https://neomatrix369.github.io/demos/laguna-py-bug-trace/?view=explorer.html) · [Reports](https://neomatrix369.github.io/demos/laguna-py-bug-trace/) · [Write-up](https://neomatrix369.github.io/pages/laguna-py-bug-trace.html) |
+| **Claude Code concept map** | [Interactive map](https://neomatrix369.github.io/demos/claude-code-concept-map.html) |
+
+---
+
 ## Flagship Open Source Projects 🌟
 
 > 12+ years of consistent F/OSS contributions
 
 | Project | What it does | Impact |
 |---|---|---|
-| [**tripwire**](https://github.com/neomatrix369/tripwire) | Sandboxed security scanning platform for AI skills and MCP servers — discovers targets, runs scanner adapters (Snyk, Cisco, and more) inside an isolated [Modal](https://modal.com) sandbox, stores findings in Supabase, and surfaces everything in one heatmap dashboard with fail-closed agent guard. Built for teams who need to assess what their agents install before trusting it | **3 ⭐ · Python · TypeScript · 125 commits** |
-| [**rag-params-finder**](https://github.com/neomatrix369/rag-params-finder) | Systematic RAG parameter sweep tool — evaluates embedding models, chunking strategies, and retrieval methods using any vector database. Supports Voyage AI (hosted) and local sentence-transformers models | **12 ⭐ · 4 forks** |
+| [**tripwire**](https://github.com/neomatrix369/tripwire) | Sandboxed security scanning platform for AI skills and MCP servers — discovers targets, runs scanner adapters (Snyk, Cisco, and more) inside an isolated [Modal](https://modal.com) sandbox, stores findings in Supabase, and surfaces everything in one heatmap dashboard with fail-closed agent guard. **[Hosted dashboard →](https://neomatrix369.github.io/demos/tripwire-dashboard/)** | **3 ⭐ · Python · TypeScript · 125 commits** |
+| [**rag-params-finder**](https://github.com/neomatrix369/rag-params-finder) | Systematic RAG parameter sweep tool — evaluates embedding models, chunking strategies, and retrieval methods using any vector database. Supports Voyage AI (hosted), local sentence-transformers, and [SIE](https://github.com/neomatrix369/sie) embeddings. See also [SIE ecosystem on neomatrix369.github.io](https://neomatrix369.github.io/pages/projects.html#sie) | **12 ⭐ · 4 forks** |
 | [**pre-rag-explorer-dashboard**](https://github.com/neomatrix369/pre-rag-explorer-dashboard) | Pre-RAG prototype dashboard for document parsing, multi-method chunking, vector embedding generation, and hybrid search exploration — powered by in-browser ML | **6 ⭐ · 3 forks** |
 | [**AIE7-Demo-Day-Project** (RagCheck)](https://github.com/neomatrix369/AIE7-Demo-Day-Project) | Proactive RAG corpus quality assessment — analyses document collections *before* deployment, identifies content gaps, and delivers specific improvement recommendations | **12 ⭐ · Python · TypeScript** |
 | [**HuggingFace Datasets**](https://huggingface.co/neomatrix369/datasets) | 16 published personal datasets spanning LLM evaluation and rollout experiments — covering GPT-4.1-mini, GPT-5-nano, Qwen3, Laguna, and Mistral models. Also contributed to the shared [laguna-eval-experiments](https://huggingface.co/datasets/poolside-laguna-hackathon/laguna-eval-experiments) dataset under the [Poolside Laguna XS.2 London Hackathon](https://huggingface.co/poolside-laguna-hackathon) org (May 2026, RL fine-tuning of Laguna XS.2, 33B MoE) and the [Mistral Hack-a-ton 2026](https://huggingface.co/mistral-hackaton-2026) org | **16 datasets · 2 hackathon orgs · Active** |
-| [**playgroup_202602_docextract**](https://github.com/neomatrix369/playgroup_202602_docextract) | Practical LLM document-extraction benchmark — extracts structured fields from UK charity PDFs (Kleister dataset) across **3 providers and 107 scored runs** (OpenRouter, Doubleword Batch API, V7 Go), scored by F1, precision, recall, cost, and time. Top model: `gemini-3-pro` (F1=0.946); Doubleword holds 7 of the global top 10; V7 averages F1=0.833 with zero failures across 33 runs. Ships with an interactive 8-tab HTML playground (rankings, field heatmaps, error breakdown, provider analysis) | **2 ⭐ · Python · HTML · 121 commits** |
+| [**playgroup_202602_docextract**](https://github.com/neomatrix369/playgroup_202602_docextract) | Practical LLM document-extraction benchmark — extracts structured fields from UK charity PDFs (Kleister dataset) across **3 providers and 111 scored runs** (OpenRouter, Doubleword Batch API, V7 Go), scored by F1, precision, recall, cost, and time. Ships with an interactive 8-tab HTML playground. **[Hosted playground →](https://neomatrix369.github.io/demos/playgroup-202602-docextract/)** · [Write-up](https://neomatrix369.github.io/pages/playgroup-202602-docextract.html) | **2 ⭐ · Python · HTML · 121 commits** |
 | [**microgpt-experiments**](https://github.com/neomatrix369/microgpt-experiments) | Minimal, stdlib-only, dependency-free character-level GPT in pure Python — scalar autograd, multi-head causal attention, Adam with bias correction. Built for learning transformer internals, with a rigorous benchmarking framework: head-count ablation studies (N\_HEAD: 1 vs 4), training step sweeps, run reports encoding the full config in the filename, `compare_run_reports.py` for loss/config diffs between runs, HTML multi-run comparison with ASCII loss graphs and 3-tier semantic quality scoring (real / plausible / nonsense) | **Python · stdlib only** |
 | [**nanoGPT_playgroup_202602**](https://github.com/neomatrix369/nanoGPT_playgroup_202602) | Hands-on GPT training and finetuning lab built on Karpathy's nanoGPT — extended with Chinchilla scaling laws analysis (`scaling_laws.ipynb`), transformer parameter sizing (`transformer_sizing.ipynb`), and systematic benchmarking (`bench.py`). Covers GPT-2 reproduction on OpenWebText and finetuning on custom datasets, with a focus on understanding model behaviour through empirical measurement | **Python · 236 commits** |
 | [**awesome-ai-ml-dl**](https://github.com/neomatrix369/awesome-ai-ml-dl) | Comprehensive AI/ML/DL study notes & curated resources — dedicated to engineers, data scientists, and researchers worldwide | **1.7k+ ⭐ · 373 forks** |
