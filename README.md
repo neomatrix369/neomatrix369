@@ -25,7 +25,7 @@
 
 > 25+ years in the game, working shoulder-to-shoulder with founders, CTOs, and brilliant research & engineering teams to craft software that stands the test of time.
 
-Data & AI consultant, mentor, and community builder. Known for making AI accessible — from client delivery to internal upskilling, workshops, and ML career talks.
+Lead software, data & ML engineer, mentor, and community builder. Known for making AI accessible — building in public, shipping production-grade systems, and running workshops and ML career talks.
 
 - 🛡️ **Security Champion** — internal Threat Modelling upskilling; recognised as *"Inspiring Coach"* by peers; builder of [Tripwire](https://github.com/neomatrix369/tripwire) ([hosted dashboard](https://neomatrix369.github.io/demos/tripwire-dashboard/)), a sandboxed MCP/AI skills security scanner
 - 🤖 **AI/ML Ambassador** — peer-recognised as *"Growth Minded"* and *"Helping Hand"* SME; externally as Kaggle Expert, KaggleX BIPOC Mentor, Certified AI Engineer
