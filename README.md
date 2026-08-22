@@ -23,45 +23,70 @@
 
 ## Supercharging Teams Through Code & Innovation 🚀
 
-> 25+ years in the game, working shoulder-to-shoulder with founders, CTOs, and brilliant research & engineering teams to craft software that stands the test of time.
+Lead software, data & ML engineer, mentor, and community builder — building in public, shipping production-grade systems, and making AI accessible through open source, benchmarks, and workshops.
 
-Lead software, data & ML engineer, mentor, and community builder. Known for making AI accessible — building in public, shipping production-grade systems, and running workshops and ML career talks.
+- 🛡️ **Security Champion** — builder of [Tripwire](https://github.com/neomatrix369/tripwire) ([hosted dashboard](https://neomatrix369.github.io/demos/tripwire-dashboard/)), sandboxed MCP/AI skills security scanning
+- 🤖 **AI/ML Ambassador** — Kaggle Expert · KaggleX BIPOC Mentor · Certified AI Engineer · [Live demos on GitHub Pages](https://neomatrix369.github.io/)
 
-- 🛡️ **Security Champion** — internal Threat Modelling upskilling; recognised as *"Inspiring Coach"* by peers; builder of [Tripwire](https://github.com/neomatrix369/tripwire) ([hosted dashboard](https://neomatrix369.github.io/demos/tripwire-dashboard/)), a sandboxed MCP/AI skills security scanner
-- 🤖 **AI/ML Ambassador** — peer-recognised as *"Growth Minded"* and *"Helping Hand"* SME; externally as Kaggle Expert, KaggleX BIPOC Mentor, Certified AI Engineer
+---
+
+## Live demos & benchmarks 🌐
+
+Interactive pages on **[neomatrix369.github.io](https://neomatrix369.github.io/)** — no clone required.
+
+| Demo | Link |
+|---|---|
+| **All projects & demos** | [Home](https://neomatrix369.github.io/) · [Projects hub](https://neomatrix369.github.io/pages/projects.html) |
+| **Doc extract playground** (111 runs, 21 snapshots) | [Archive](https://neomatrix369.github.io/demos/playgroup-202602-docextract/) · [Write-up](https://neomatrix369.github.io/pages/playgroup-202602-docextract.html) |
+| **Doubleword extraction guide** | [Video walkthrough](https://neomatrix369.github.io/demos/playgroup-202602-docextract/extractor-all-doubleword.html) |
+| **Tripwire dashboard** | [Live demo](https://neomatrix369.github.io/demos/tripwire-dashboard/) |
+| **py-bug-trace sweep** (Poolside Laguna) | [Explorer](https://neomatrix369.github.io/demos/laguna-py-bug-trace/?view=explorer.html) · [Reports](https://neomatrix369.github.io/demos/laguna-py-bug-trace/) |
+| **Claude Code concept map** | [Interactive map](https://neomatrix369.github.io/demos/claude-code-concept-map.html) |
+
+---
+
+## Flagship Open Source Projects 🌟
+
+| Project | What it does | Impact |
+|---|---|---|
+| [**tripwire**](https://github.com/neomatrix369/tripwire) | Sandboxed security scanning for AI skills and MCP servers — heatmap dashboard, fail-closed agent guard. **[Hosted dashboard →](https://neomatrix369.github.io/demos/tripwire-dashboard/)** | **Python · TypeScript** |
+| [**playgroup_202602_docextract**](https://github.com/neomatrix369/playgroup_202602_docextract) | LLM document-extraction benchmark — 111 scored runs across OpenRouter, Doubleword, V7 Go. **[Hosted playground →](https://neomatrix369.github.io/demos/playgroup-202602-docextract/)** | **Python · HTML** |
+| [**rag-params-finder**](https://github.com/neomatrix369/rag-params-finder) | RAG parameter sweep — embeddings × chunking × retrieval before you build. [SIE ecosystem →](https://neomatrix369.github.io/pages/projects.html#sie) | **12 ⭐ · 4 forks** |
+| [**sie**](https://github.com/neomatrix369/sie) | Superlinked Inference Engine — open-source inference cluster for agent workloads | **Python** |
+| [**HuggingFace Datasets**](https://huggingface.co/neomatrix369/datasets) | 16 evaluation datasets · [Laguna hackathon](https://huggingface.co/poolside-laguna-hackathon/laguna-eval-experiments) contributions | **Active** |
+| [**awesome-ai-ml-dl**](https://github.com/neomatrix369/awesome-ai-ml-dl) | Curated AI/ML/DL study notes and resources | **1.7k+ ⭐** |
 
 <details>
-<summary><strong>About Me — Full Story ↓</strong></summary>
+<summary><strong>More flagship & learning projects ↓</strong></summary>
 
 <br/>
 
-As a polyglot software developer with 25+ years in the game, I'm all about strengthening teams and helping them accelerate using whatever tech magic we have at our disposal. You'll find me working shoulder-to-shoulder with founders, CTOs, and brilliant research teams, crafting software that not only works beautifully but stands the test of time.
+| Project | What it does | Impact |
+|---|---|---|
+| [**pre-rag-explorer-dashboard**](https://github.com/neomatrix369/pre-rag-explorer-dashboard) | Pre-RAG prototype — parsing, chunking, embeddings, hybrid search in-browser | **6 ⭐ · 3 forks** |
+| [**AIE7-Demo-Day-Project** (RagCheck)](https://github.com/neomatrix369/AIE7-Demo-Day-Project) | Proactive RAG corpus quality assessment before deployment | **12 ⭐** |
+| [**microgpt-experiments**](https://github.com/neomatrix369/microgpt-experiments) | Stdlib-only character GPT — head ablation, benchmarking framework | **Python · stdlib** |
+| [**nanoGPT_playgroup_202602**](https://github.com/neomatrix369/nanoGPT_playgroup_202602) | nanoGPT lab — scaling laws, transformer sizing, systematic benchmarking | **236 commits** |
+| [**nlp_profiler**](https://github.com/neomatrix369/nlp_profiler) | `pandas.describe()` for text — 30+ NLP features from a DataFrame | **244 ⭐** |
 
-### The Craft Behind the Code
+</details>
 
-I'm a firm believer in doing things right the first time. Whether it's test-driven development (TDD), behaviour-driven development (BDD), or championing software craftsmanship principles, I bring methodology to the madness. My playground spans the entire Software Development Lifecycle — from reviewing code and breathing new life into legacy systems to test-driving fresh features and diving deep into DevOps.
+<details>
+<summary><strong>Earlier open source & research ↓</strong></summary>
 
-### Where Art Meets Science
+<br/>
 
-These days, you'll catch me building specialised tools for AI/ML research teams, wrestling with data engineering challenges, running experiments, and turning raw numbers into meaningful insights. It's like being part scientist, part engineer, and part digital archaeologist!
+| Project | What it does | Impact |
+|---|---|---|
+| [**awesome-graal**](https://github.com/neomatrix369/awesome-graal) | GraalVM, Truffle, and polyglot JVM resource hub | **369 ⭐** |
+| [**refactoring-developer-habits**](https://github.com/neomatrix369/refactoring-developer-habits) | Community TDD manifesto — SoCraTes UK 2013 | **141 ⭐** |
+| [**learning-path-index**](https://github.com/neomatrix369/learning-path-index) | Structured learning path index — data and assets | **18 ⭐** |
+| [**RESTAPIUnifier**](https://github.com/neomatrix369/RESTAPIUnifier) | Unified interface across REST API formats | **8 ⭐ · Java** |
+| [**better-nlp**](http://bit.ly/better-nlp-launch) | Accessible NLP library | Open source |
+| [**Kaggle: Normalising a distribution**](https://www.kaggle.com/neomatrix369/normalising-a-distribution) | Research kernel — statistical theory and practice | Peer reviewed |
+| [**Kaggle: Limitations of stats measurements**](https://www.kaggle.com/neomatrix369/studying-the-limitations-of-stats-measurements) | Boundaries of statistical measurement | Peer reviewed |
 
-### Sharing the Knowledge
-
-I've had the privilege of running workshops and hands-on labs (both internal and community-wide), creating courses, and even helping with hiring decisions. There's something incredibly rewarding about watching someone's "aha!" moment when a complex concept finally clicks.
-
-### Current Obsessions & Future Frontiers
-
-Right now, I'm completely fascinated by AI, Machine Learning, LLMs, and RAG — building smarter pipelines, benchmarking retrieval strategies, and squeezing every drop of performance and quality out of the results.
-
-### Past Obsessions
-
-There was a time when I was equally captivated by Data Analytics with R, stunning Data Visualisations (R & D3), Java Concurrency, and the incredible world of Graal/GraalVM/Truffle. That work shaped a lot of how I think about performance, correctness, and elegant systems — and it lives on in projects like **awesome-graal** and the Kaggle kernels.
-
-### The Eternal Student
-
-When I'm not coding for work, you'll find me at conferences, workshops, and events, getting my hands dirty with the latest tech. I'm like a kid in a candy store when it comes to the Python ecosystem, hardware accelerators — Movidius chips, FPGAs, Google's Cloud TPUs, GPUs. My GitHub repos and blogs are basically my digital laboratory where I document these adventures.
-
-The ultimate goal? Finding better ways to work with higher-quality data, run more elegant experiments, and squeeze every drop of performance and quality from our results. It's not just about writing code — it's about crafting solutions that make a real difference.
+Contributed to **[Adopt OpenJDK](https://adoptopenjdk.net/)** and **[GraalVM](https://www.graalvm.org/)** until ~2020/21 — lives on in **awesome-graal**.
 
 </details>
 
@@ -72,13 +97,13 @@ The ultimate goal? Finding better ways to work with higher-quality data, run mor
 <table>
 <tr>
 <td align="center" width="190">
-🤖<br/><strong>Certified AI Engineer</strong><br/><sub><a href="https://aimakerspace.io/the-ai-engineering-bootcamp/">AI Makerspace</a> · 10-week intensive</sub>
+🤖<br/><strong>Certified AI Engineer</strong><br/><sub><a href="https://aimakerspace.io/the-ai-engineering-bootcamp/">AI Makerspace</a></sub>
 </td>
 <td align="center" width="190">
-🎯<br/><strong>4× Kaggle Expert</strong><br/><sub>Competitions · Notebooks · Datasets · Discussions</sub>
+🎯<br/><strong>4× Kaggle Expert</strong><br/><sub>Competitions · Notebooks · Datasets</sub>
 </td>
 <td align="center" width="190">
-🏅<br/><strong>Oracle Groundbreaker Award</strong><br/><sub>2019</sub>
+🏅<br/><strong>Oracle Groundbreaker</strong><br/><sub>2019</sub>
 </td>
 <td align="center" width="190">
 🏺<br/><strong>Software Craftsperson</strong><br/><sub>2016</sub>
@@ -89,91 +114,65 @@ The ultimate goal? Finding better ways to work with higher-quality data, run mor
 </tr>
 </table>
 
----
-
-## Live demos & benchmarks 🌐
-
-Interactive pages hosted on **[neomatrix369.github.io](https://neomatrix369.github.io/)** — open in the browser, no clone required.
-
-| Demo | Link |
-|---|---|
-| **All projects & demos** | [neomatrix369.github.io](https://neomatrix369.github.io/) · [Projects hub](https://neomatrix369.github.io/pages/projects.html) |
-| **Doc extract playground** (111 runs, 21 snapshots) | [Playground archive](https://neomatrix369.github.io/demos/playgroup-202602-docextract/) · [Write-up](https://neomatrix369.github.io/pages/playgroup-202602-docextract.html) |
-| **Doubleword extraction guide** | [Video walkthrough](https://neomatrix369.github.io/demos/playgroup-202602-docextract/extractor-all-doubleword.html) |
-| **Tripwire dashboard** | [Live demo](https://neomatrix369.github.io/demos/tripwire-dashboard/) |
-| **py-bug-trace sweep** (Poolside Laguna hackathon) | [Explorer](https://neomatrix369.github.io/demos/laguna-py-bug-trace/?view=explorer.html) · [Reports](https://neomatrix369.github.io/demos/laguna-py-bug-trace/) · [Write-up](https://neomatrix369.github.io/pages/laguna-py-bug-trace.html) |
-| **Claude Code concept map** | [Interactive map](https://neomatrix369.github.io/demos/claude-code-concept-map.html) |
-
----
-
-## Flagship Open Source Projects 🌟
-
-> 12+ years of consistent F/OSS contributions
-
-| Project | What it does | Impact |
-|---|---|---|
-| [**tripwire**](https://github.com/neomatrix369/tripwire) | Sandboxed security scanning platform for AI skills and MCP servers — discovers targets, runs scanner adapters (Snyk, Cisco, and more) inside an isolated [Modal](https://modal.com) sandbox, stores findings in Supabase, and surfaces everything in one heatmap dashboard with fail-closed agent guard. **[Hosted dashboard →](https://neomatrix369.github.io/demos/tripwire-dashboard/)** | **3 ⭐ · Python · TypeScript · 125 commits** |
-| [**rag-params-finder**](https://github.com/neomatrix369/rag-params-finder) | Systematic RAG parameter sweep tool — evaluates embedding models, chunking strategies, and retrieval methods using any vector database. Supports Voyage AI (hosted), local sentence-transformers, and [SIE](https://github.com/neomatrix369/sie) embeddings. See also [SIE ecosystem on neomatrix369.github.io](https://neomatrix369.github.io/pages/projects.html#sie) | **12 ⭐ · 4 forks** |
-| [**pre-rag-explorer-dashboard**](https://github.com/neomatrix369/pre-rag-explorer-dashboard) | Pre-RAG prototype dashboard for document parsing, multi-method chunking, vector embedding generation, and hybrid search exploration — powered by in-browser ML | **6 ⭐ · 3 forks** |
-| [**AIE7-Demo-Day-Project** (RagCheck)](https://github.com/neomatrix369/AIE7-Demo-Day-Project) | Proactive RAG corpus quality assessment — analyses document collections *before* deployment, identifies content gaps, and delivers specific improvement recommendations | **12 ⭐ · Python · TypeScript** |
-| [**HuggingFace Datasets**](https://huggingface.co/neomatrix369/datasets) | 16 published personal datasets spanning LLM evaluation and rollout experiments — covering GPT-4.1-mini, GPT-5-nano, Qwen3, Laguna, and Mistral models. Also contributed to the shared [laguna-eval-experiments](https://huggingface.co/datasets/poolside-laguna-hackathon/laguna-eval-experiments) dataset under the [Poolside Laguna XS.2 London Hackathon](https://huggingface.co/poolside-laguna-hackathon) org (May 2026, RL fine-tuning of Laguna XS.2, 33B MoE) and the [Mistral Hack-a-ton 2026](https://huggingface.co/mistral-hackaton-2026) org | **16 datasets · 2 hackathon orgs · Active** |
-| [**playgroup_202602_docextract**](https://github.com/neomatrix369/playgroup_202602_docextract) | Practical LLM document-extraction benchmark — extracts structured fields from UK charity PDFs (Kleister dataset) across **3 providers and 111 scored runs** (OpenRouter, Doubleword Batch API, V7 Go), scored by F1, precision, recall, cost, and time. Ships with an interactive 8-tab HTML playground. **[Hosted playground →](https://neomatrix369.github.io/demos/playgroup-202602-docextract/)** · [Write-up](https://neomatrix369.github.io/pages/playgroup-202602-docextract.html) | **2 ⭐ · Python · HTML · 121 commits** |
-| [**microgpt-experiments**](https://github.com/neomatrix369/microgpt-experiments) | Minimal, stdlib-only, dependency-free character-level GPT in pure Python — scalar autograd, multi-head causal attention, Adam with bias correction. Built for learning transformer internals, with a rigorous benchmarking framework: head-count ablation studies (N\_HEAD: 1 vs 4), training step sweeps, run reports encoding the full config in the filename, `compare_run_reports.py` for loss/config diffs between runs, HTML multi-run comparison with ASCII loss graphs and 3-tier semantic quality scoring (real / plausible / nonsense) | **Python · stdlib only** |
-| [**nanoGPT_playgroup_202602**](https://github.com/neomatrix369/nanoGPT_playgroup_202602) | Hands-on GPT training and finetuning lab built on Karpathy's nanoGPT — extended with Chinchilla scaling laws analysis (`scaling_laws.ipynb`), transformer parameter sizing (`transformer_sizing.ipynb`), and systematic benchmarking (`bench.py`). Covers GPT-2 reproduction on OpenWebText and finetuning on custom datasets, with a focus on understanding model behaviour through empirical measurement | **Python · 236 commits** |
-| [**awesome-ai-ml-dl**](https://github.com/neomatrix369/awesome-ai-ml-dl) | Comprehensive AI/ML/DL study notes & curated resources — dedicated to engineers, data scientists, and researchers worldwide | **1.7k+ ⭐ · 373 forks** |
-| [**nlp_profiler**](https://github.com/neomatrix369/nlp_profiler) | Drop a Pandas dataframe in, get sentiment, grammar quality, readability, spelling scores and 30+ text features back — like `pandas.describe()` but for text | **244 ⭐ · 37 forks · Presented at NLP Zurich 2020** |
-
 <details>
-<summary><strong>More projects ↓</strong></summary>
+<summary><strong>Competition record ↓</strong></summary>
 
 <br/>
-
-| Project | What it does | Impact |
-|---|---|---|
-| [**awesome-graal**](https://github.com/neomatrix369/awesome-graal) | The definitive curated resource hub for GraalVM, Truffle, and polyglot JVM — covering Java, Python, R, Ruby, JS, LLVM runtimes | **369 ⭐ · 28 forks** |
-| [**refactoring-developer-habits**](https://github.com/neomatrix369/refactoring-developer-habits) | Collaborative TDD manifesto — a community-shaped guide to developer habits and the TDD lifecycle, born at SoCraTes UK 2013 | **141 ⭐ · 32 forks · Presented at LSCC 2016** |
-| [**learning-path-index**](https://github.com/neomatrix369/learning-path-index) | Data, assets, and code powering a structured Learning Path Index project | **18 ⭐ · 17 forks** |
-| [**RESTAPIUnifier**](https://github.com/neomatrix369/RESTAPIUnifier) | Brings together APIs of various REST formats under one unified interface | **8 ⭐ · 7 forks · Java** |
-| [**better-nlp**](http://bit.ly/better-nlp-launch) | NLP library making advanced natural language processing accessible to all | Open source |
-| [**Kaggle: Normalising a distribution**](https://www.kaggle.com/neomatrix369/normalising-a-distribution) | Published research kernel bridging statistical theory and practice | Peer reviewed |
-| [**Kaggle: Limitations of stats measurements**](https://www.kaggle.com/neomatrix369/studying-the-limitations-of-stats-measurements) | Deep-dive research on the boundaries of statistical measurement | Peer reviewed |
-
-Contributed actively to **[Adopt OpenJDK](https://adoptopenjdk.net/)** and **[GraalVM](https://www.graalvm.org/)** up until around 2020/21 — that body of work lives on in the **awesome-graal** resource hub above.
-
-</details>
-
----
-
-## Competition Record 🏆
 
 | Result | Competition | Proof |
 |---|---|---|
-| 🥇 **Top 12%** | [Liverpool Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching) — ML on quantum tunneling data | [tweet ↗](https://mobile.twitter.com/theNeomatrix369/status/1265411110473252866) |
-| 🏆 **Team Champion** | London "Kaggle Machine Learning Challenger Day" | [tweet ↗](https://twitter.com/theNeomatrix369/status/1229832263514365952) |
-| 🥇 **Top 6 of 50+** | 2019 Kaggle Utility Script Coding Competition | [tweet ↗](https://twitter.com/kaggle/status/1186429624437182465) |
-| 🥈 **5th of 2,255** | SoftBank Forex Algorithm Data Science Competition 2019/20 | [tweet ↗](https://twitter.com/theNeomatrix369/status/1214601525856747520) |
+| 🥇 **Top 12%** | [Liverpool Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching) | [tweet ↗](https://mobile.twitter.com/theNeomatrix369/status/1265411110473252866) |
+| 🏆 **Team Champion** | London Kaggle ML Challenger Day | [tweet ↗](https://twitter.com/theNeomatrix369/status/1229832263514365952) |
+| 🥇 **Top 6 of 50+** | 2019 Kaggle Utility Script Competition | [tweet ↗](https://twitter.com/kaggle/status/1186429624437182465) |
+| 🥈 **5th of 2,255** | SoftBank Forex Algorithm Competition 2019/20 | [tweet ↗](https://twitter.com/theNeomatrix369/status/1214601525856747520) |
 | 🏅 **Consolation Prize** | Pivigo Data Science Hackathon | [tweet ↗](https://twitter.com/theNeomatrix369/status/1198353416025714694) |
-
----
-
-## Mentoring & Community Impact
-
-Mentored across **[KaggleX BIPOC](https://www.kaggle.com/kagglex-bipoc-mentorship-program)** cohorts (2022–2025) and [AIMakerspace](https://aimakerspace.io/) Engineering bootcamp — a true two-way learning experience.
-
-<details>
-<summary><strong>Full mentoring story ↓</strong></summary>
-
-<br/>
-
-I've mentored participants across multiple **[KaggleX BIPOC Mentorship](https://www.kaggle.com/kagglex-bipoc-mentorship-program)** cohorts (**2022–2025**), starting with the **December 2022 – March 2023** program organised by [Kaggle](https://kaggle.com). It's been incredibly rewarding — a true two-way learning experience where I've grown as much as I've helped others. The outcomes and feedback are visible on my [LinkedIn](https://www.linkedin.com/in/mani-sarkar/) and [Twitter](http://twitter.com/theNeomatrix369/) feeds, showcasing the amazing work these talented individuals have accomplished.
-
-In addition to the above also mentored and been a peer supporter to the students of the [AIMakerspace](https://aimakerspace.io/) Engineering bootcamp and the onramp courses.
 
 </details>
 
----
+<details>
+<summary><strong>Mentoring & community impact ↓</strong></summary>
 
-## GitHub Stats
+<br/>
+
+Mentored across **[KaggleX BIPOC](https://www.kaggle.com/kagglex-bipoc-mentorship-program)** cohorts (2022–2025) and [AIMakerspace](https://aimakerspace.io/) Engineering bootcamp.
+
+I've mentored participants across multiple **[KaggleX BIPOC Mentorship](https://www.kaggle.com/kagglex-bipoc-mentorship-program)** cohorts (**2022–2025**), starting with **December 2022 – March 2023**. Outcomes and feedback are on [LinkedIn](https://www.linkedin.com/in/mani-sarkar/) and [Twitter](http://twitter.com/theNeomatrix369/).
+
+Also a peer supporter for [AIMakerspace](https://aimakerspace.io/) Engineering bootcamp and onramp courses.
+
+</details>
+
+<details>
+<summary><strong>About me — full story ↓</strong></summary>
+
+<br/>
+
+> 25+ years working with founders, CTOs, and research & engineering teams to craft software that stands the test of time.
+
+As a polyglot software developer, I'm all about strengthening teams and helping them accelerate. You'll find me working shoulder-to-shoulder with founders, CTOs, and brilliant research teams.
+
+### The Craft Behind the Code
+
+TDD, BDD, and software craftsmanship — from legacy revival to test-driving fresh features and DevOps.
+
+### Where Art Meets Science
+
+Building tools for AI/ML research teams, data engineering, experiments, and turning raw numbers into insight.
+
+### Current Focus
+
+AI, Machine Learning, LLMs, and RAG — smarter pipelines, benchmarking retrieval strategies, squeezing quality from results.
+
+### Past Obsessions
+
+Data Analytics with R, D3 visualisations, Java Concurrency, Graal/GraalVM/Truffle — lives on in **awesome-graal** and Kaggle kernels.
+
+</details>
+
+<details>
+<summary><strong>GitHub stats & activity ↓</strong></summary>
+
+<br/>
 
 <div align="center">
 
@@ -186,6 +185,8 @@ In addition to the above also mentored and been a peer supporter to the students
 [📊 GitHub Metrics Insights →](https://metrics.lecoq.io/insights/neomatrix369)
 
 </div>
+
+</details>
 
 ---
 
@@ -201,27 +202,20 @@ In addition to the above also mentored and been a peer supporter to the students
 ```
 Languages       Python · Java · R · Scala
 
-LLMs & RAG      OpenAI · Hugging Face · LLM application development · RAG pipelines · vector embeddings
-                chunking strategies · hybrid search · semantic search · multi-agent systems
-                Voyage AI · MongoDB Atlas Vector Search · MCP (Model Context Protocol)
-                microgpt / nanoGPT experimentation
+LLMs & RAG      OpenAI · Hugging Face · RAG pipelines · vector embeddings
+                chunking · hybrid search · MCP · microgpt / nanoGPT
 
-AI / ML         TensorFlow · PyTorch · Jupyter · in-browser ML models
-                data visualisation (R & D3.js) · Kaggle
+AI / ML         TensorFlow · PyTorch · Jupyter · Kaggle
 
-Backend         FastAPI · REST API design & unification · Java services
+Backend         FastAPI · REST API design · Java services
 
-JVM / Legacy    GraalVM · Truffle · Adopt OpenJDK · JVM Performance Tuning
-                Java Concurrency · HotSpot JIT analysis
+JVM / Legacy    GraalVM · Truffle · Adopt OpenJDK · Java Concurrency
 
-Data            R (analytics) · D3.js (visualisation) · data engineering pipelines
-                document parsing · fact extraction · causal inference
+Data            R · D3.js · data engineering · document parsing
 
-DevOps          Docker · CI/CD · Linux · SDLC tooling
+DevOps          Docker · CI/CD · Linux
 
-Hardware        Movidius · FPGAs · Google Cloud TPUs · NVIDIA GPUs
-
-Practices       TDD · BDD · Software Craftsmanship · Code Review · Refactoring
+Practices       TDD · BDD · Software Craftsmanship · Code Review
 ```
 
 </details>
@@ -232,10 +226,13 @@ Practices       TDD · BDD · Software Craftsmanship · Code Review · Refactori
 
 *"Don't chase success, rather aim for Excellence, and success will come chasing after you!"*
 
----
+<details>
+<summary><strong>Find me online ↓</strong></summary>
 
-*Find me talking, writing, or building at one of these:*
+<br/>
 
-[Twitter](http://twitter.com/theNeomatrix369/) · [Mastodon](https://mastodon.online/@neomatrix369) · [LinkedIn](https://www.linkedin.com/in/mani-sarkar/) · [Medium](https://medium.com/@neomatrix369) · [Kaggle](https://www.kaggle.com/neomatrix369) · [HuggingFace](https://huggingface.co/neomatrix369) · [GitHub](https://github.com/neomatrix369/) · [SlideShare](https://www.slideshare.net/neomatrix369/) · [Lanyrd](https://lanyrd.com/profile/neomatrix369/) · [Blog](https://neomatrix369.wordpress.com/) · [YouTube — Channel](https://www.youtube.com/user/neomatrix369/) · [YouTube — Playlists](https://www.youtube.com/user/neomatrix369/playlists)
+[Twitter](http://twitter.com/theNeomatrix369/) · [Mastodon](https://mastodon.online/@neomatrix369) · [LinkedIn](https://www.linkedin.com/in/mani-sarkar/) · [Medium](https://medium.com/@neomatrix369) · [Kaggle](https://www.kaggle.com/neomatrix369) · [HuggingFace](https://huggingface.co/neomatrix369) · [GitHub](https://github.com/neomatrix369/) · [SlideShare](https://www.slideshare.net/neomatrix369/) · [Blog](https://neomatrix369.wordpress.com/) · [YouTube](https://www.youtube.com/user/neomatrix369/)
+
+</details>
 
 </div>
