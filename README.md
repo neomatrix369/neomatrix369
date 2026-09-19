@@ -90,23 +90,6 @@ Interactive pages on **[neomatrix369.github.io](https://neomatrix369.github.io/)
 | **py-bug-trace sweep** (Poolside Laguna) | [Explorer](https://neomatrix369.github.io/demos/laguna-py-bug-trace/?view=explorer.html) · [Reports](https://neomatrix369.github.io/demos/laguna-py-bug-trace/) |
 | **Claude Code concept map** | [Interactive map](https://neomatrix369.github.io/demos/claude-code-concept-map.html) |
 
-<details>
-<summary><strong>Wins & in public ↓</strong></summary>
-
-<br/>
-
-Hackathon outcomes, published benchmarks, and partner shoutouts — each with LinkedIn posts. Also on the live site: [neomatrix369.github.io/#spotlight](https://neomatrix369.github.io/#spotlight).
-
-| Kind | Highlight | LinkedIn |
-|---|---|---|
-| **Win** | **UK AI Agent Lab** (Imperial × Google DeepMind) — Winner, Track 1 · Self-Improving Research Team (with Shritesh Jamulkar) | [Post ↗](https://lnkd.in/p/e93UGCsW) |
-| **Win** | **Agent vs Wall Street** (AI Tinkerers London) — 2nd Accuracy Track · Winner Social Media Track (with Devansh Karia & Jack Marshall) | [Post ↗](https://lnkd.in/p/emeGxSe4) |
-| **Shoutout** | **Superlinked × Qwen hackathon** · Tripwire featured among builds | [Recap ↗](https://lnkd.in/p/e-TTHGyq) · [Feature ↗](https://lnkd.in/p/eMB2XzQb) · [Event day ↗](https://lnkd.in/p/eGCaJpU6) |
-| **Results** | **Poolside Research Hackathon** · py-bug-trace (team Toolside) — 29-model sweep; Laguna-XS.2 inverted difficulty | [Post ↗](https://lnkd.in/p/e8ernHbX) |
-| **Results** | **Playgroup** · UK Charity Doc Extract — multi-provider LLM extraction leaderboard & write-up | [Post ↗](https://www.linkedin.com/feed/update/urn:li:share:7498176346951426048/) |
-
-</details>
-
 ---
 
 ## Recognition & Credentials
@@ -146,6 +129,23 @@ Hackathon outcomes, published benchmarks, and partner shoutouts — each with Li
 | 🥇 **Top 6 of 50+** | 2019 Kaggle Utility Script Competition | [tweet ↗](https://twitter.com/kaggle/status/1186429624437182465) |
 | 🥈 **5th of 2,255** | SoftBank Forex Algorithm Competition 2019/20 | [tweet ↗](https://twitter.com/theNeomatrix369/status/1214601525856747520) |
 | 🏅 **Consolation Prize** | Pivigo Data Science Hackathon | [tweet ↗](https://twitter.com/theNeomatrix369/status/1198353416025714694) |
+
+</details>
+
+<details>
+<summary><strong>Wins & in public ↓</strong></summary>
+
+<br/>
+
+Hackathon outcomes, published benchmarks, and partner shoutouts — each with LinkedIn posts. Also on the live site: [neomatrix369.github.io/#spotlight](https://neomatrix369.github.io/#spotlight).
+
+| Kind | Highlight | LinkedIn |
+|---|---|---|
+| **Win** | **UK AI Agent Lab** (Imperial × Google DeepMind) — Winner, Track 1 · Self-Improving Research Team (with Shritesh Jamulkar) | [Post ↗](https://lnkd.in/p/e93UGCsW) |
+| **Win** | **Agent vs Wall Street** (AI Tinkerers London) — 2nd Accuracy Track · Winner Social Media Track (with Devansh Karia & Jack Marshall) | [Post ↗](https://lnkd.in/p/emeGxSe4) |
+| **Shoutout** | **Superlinked × Qwen hackathon** · Tripwire featured among builds | [Recap ↗](https://lnkd.in/p/e-TTHGyq) · [Feature ↗](https://lnkd.in/p/eMB2XzQb) · [Event day ↗](https://lnkd.in/p/eGCaJpU6) |
+| **Results** | **Poolside Research Hackathon** · py-bug-trace (team Toolside) — 29-model sweep; Laguna-XS.2 inverted difficulty | [Post ↗](https://lnkd.in/p/e8ernHbX) |
+| **Results** | **Playgroup** · UK Charity Doc Extract — multi-provider LLM extraction leaderboard & write-up | [Post ↗](https://www.linkedin.com/feed/update/urn:li:share:7498176346951426048/) |
 
 </details>
 
