@@ -30,6 +30,22 @@ Lead software, data & ML engineer, mentor, and community builder — building in
 
 ---
 
+## Wins & in public
+
+Hackathon outcomes, published benchmarks, and partner shoutouts — each with LinkedIn posts.
+
+| Kind | Highlight | LinkedIn |
+|---|---|---|
+| **Win** | **UK AI Agent Lab** (Imperial × Google DeepMind) — Winner, Track 1 · Self-Improving Research Team (with Shritesh Jamulkar) | [Post ↗](https://lnkd.in/p/e93UGCsW) |
+| **Win** | **Agent vs Wall Street** (AI Tinkerers London) — 2nd Accuracy Track · Winner Social Media Track (with Devansh Karia & Jack Marshall) | [Post ↗](https://lnkd.in/p/emeGxSe4) |
+| **Shoutout** | **Superlinked × Qwen hackathon** · Tripwire featured among builds | [Recap ↗](https://lnkd.in/p/e-TTHGyq) · [Feature ↗](https://lnkd.in/p/eMB2XzQb) · [Event day ↗](https://lnkd.in/p/eGCaJpU6) |
+| **Results** | **Poolside Research Hackathon** · py-bug-trace (team Toolside) — 29-model sweep; Laguna-XS.2 inverted difficulty | [Post ↗](https://lnkd.in/p/e8ernHbX) |
+| **Results** | **Playgroup** · UK Charity Doc Extract — multi-provider LLM extraction leaderboard & write-up | [Post ↗](https://www.linkedin.com/feed/update/urn:li:share:7498176346951426048/) |
+
+Also on the live site: [neomatrix369.github.io/#spotlight](https://neomatrix369.github.io/#spotlight)
+
+---
+
 ## Live demos & benchmarks 🌐
 
 Interactive pages on **[neomatrix369.github.io](https://neomatrix369.github.io/)** — no clone required.
@@ -121,6 +137,9 @@ Contributed to **[Adopt OpenJDK](https://adoptopenjdk.net/)** and **[GraalVM](ht
 
 | Result | Competition | Proof |
 |---|---|---|
+| 🏆 **Winner — Track 1** | UK AI Agent Lab (Imperial × Google DeepMind) | [LinkedIn ↗](https://lnkd.in/p/e93UGCsW) |
+| 🥈 **2nd Accuracy** · 🏆 **Social Media Winner** | Agent vs Wall Street (AI Tinkerers) | [LinkedIn ↗](https://lnkd.in/p/emeGxSe4) |
+| 📣 **Partner shoutout** | Superlinked × Qwen · Tripwire | [Recap ↗](https://lnkd.in/p/e-TTHGyq) · [Feature ↗](https://lnkd.in/p/eMB2XzQb) · [Event ↗](https://lnkd.in/p/eGCaJpU6) |
 | 🥇 **Top 12%** | [Liverpool Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching) | [tweet ↗](https://mobile.twitter.com/theNeomatrix369/status/1265411110473252866) |
 | 🏆 **Team Champion** | London Kaggle ML Challenger Day | [tweet ↗](https://twitter.com/theNeomatrix369/status/1229832263514365952) |
 | 🥇 **Top 6 of 50+** | 2019 Kaggle Utility Script Competition | [tweet ↗](https://twitter.com/kaggle/status/1186429624437182465) |
