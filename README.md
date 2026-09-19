@@ -13,7 +13,7 @@
 [![Blog](https://img.shields.io/badge/Blog-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://neomatrix369.wordpress.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/user/neomatrix369/)
 [![SlideShare](https://img.shields.io/badge/SlideShare-Talks-0077B5?style=flat-square&logo=slideshare&logoColor=white)](https://www.slideshare.net/neomatrix369/)
-[![Live Demos](https://img.shields.io/badge/Live_Demos-neomatrix369.github.io-c4a574?style=flat-square&logo=githubpages&logoColor=white)](https://neomatrix369.github.io/)
+[![Live Builds](https://img.shields.io/badge/Live_Builds-neomatrix369.github.io-c4a574?style=flat-square&logo=githubpages&logoColor=white)](https://neomatrix369.github.io/)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=neomatrix369&style=flat-square&color=brightgreen)](https://github.com/neomatrix369)
 
@@ -26,38 +26,7 @@
 Lead software, data & ML engineer, mentor, and community builder — building in public, shipping production-grade systems, and making AI accessible through open source, benchmarks, and workshops.
 
 - 🛡️ **Security Champion** — builder of [Tripwire](https://github.com/neomatrix369/tripwire) ([hosted dashboard](https://neomatrix369.github.io/demos/tripwire-dashboard/)), sandboxed MCP/AI skills security scanning
-- 🤖 **AI/ML Ambassador** — Kaggle Expert · KaggleX BIPOC Mentor · Certified AI Engineer · [Live demos on GitHub Pages](https://neomatrix369.github.io/)
-
----
-
-## Wins & in public
-
-Hackathon outcomes, published benchmarks, and partner shoutouts — each with LinkedIn posts.
-
-| Kind | Highlight | LinkedIn |
-|---|---|---|
-| **Win** | **UK AI Agent Lab** (Imperial × Google DeepMind) — Winner, Track 1 · Self-Improving Research Team (with Shritesh Jamulkar) | [Post ↗](https://lnkd.in/p/e93UGCsW) |
-| **Win** | **Agent vs Wall Street** (AI Tinkerers London) — 2nd Accuracy Track · Winner Social Media Track (with Devansh Karia & Jack Marshall) | [Post ↗](https://lnkd.in/p/emeGxSe4) |
-| **Shoutout** | **Superlinked × Qwen hackathon** · Tripwire featured among builds | [Recap ↗](https://lnkd.in/p/e-TTHGyq) · [Feature ↗](https://lnkd.in/p/eMB2XzQb) · [Event day ↗](https://lnkd.in/p/eGCaJpU6) |
-| **Results** | **Poolside Research Hackathon** · py-bug-trace (team Toolside) — 29-model sweep; Laguna-XS.2 inverted difficulty | [Post ↗](https://lnkd.in/p/e8ernHbX) |
-| **Results** | **Playgroup** · UK Charity Doc Extract — multi-provider LLM extraction leaderboard & write-up | [Post ↗](https://www.linkedin.com/feed/update/urn:li:share:7498176346951426048/) |
-
-Also on the live site: [neomatrix369.github.io/#spotlight](https://neomatrix369.github.io/#spotlight)
-
----
-
-## Live demos & benchmarks 🌐
-
-Interactive pages on **[neomatrix369.github.io](https://neomatrix369.github.io/)** — no clone required.
-
-| Demo | Link |
-|---|---|
-| **All projects & demos** | [Home](https://neomatrix369.github.io/) · [Projects hub](https://neomatrix369.github.io/pages/projects.html) |
-| **Doc extract playground** (111 runs, 21 snapshots) | [Archive](https://neomatrix369.github.io/demos/playgroup-202602-docextract/) · [Write-up](https://neomatrix369.github.io/pages/playgroup-202602-docextract.html) |
-| **Doubleword extraction guide** | [Video walkthrough](https://neomatrix369.github.io/demos/playgroup-202602-docextract/extractor-all-doubleword.html) |
-| **Tripwire dashboard** | [Live demo](https://neomatrix369.github.io/demos/tripwire-dashboard/) |
-| **py-bug-trace sweep** (Poolside Laguna) | [Explorer](https://neomatrix369.github.io/demos/laguna-py-bug-trace/?view=explorer.html) · [Reports](https://neomatrix369.github.io/demos/laguna-py-bug-trace/) |
-| **Claude Code concept map** | [Interactive map](https://neomatrix369.github.io/demos/claude-code-concept-map.html) |
+- 🤖 **AI/ML Ambassador** — Kaggle Expert · KaggleX BIPOC Mentor · Certified AI Engineer · [Live builds on GitHub Pages](https://neomatrix369.github.io/)
 
 ---
 
@@ -103,6 +72,38 @@ Interactive pages on **[neomatrix369.github.io](https://neomatrix369.github.io/)
 | [**Kaggle: Limitations of stats measurements**](https://www.kaggle.com/neomatrix369/studying-the-limitations-of-stats-measurements) | Boundaries of statistical measurement | Peer reviewed |
 
 Contributed to **[Adopt OpenJDK](https://adoptopenjdk.net/)** and **[GraalVM](https://www.graalvm.org/)** until ~2020/21 — lives on in **awesome-graal**.
+
+</details>
+
+---
+
+## Live builds & benchmarks 🌐
+
+Interactive pages on **[neomatrix369.github.io](https://neomatrix369.github.io/)** — no clone required. Run the work in the browser.
+
+| Build | Link |
+|---|---|
+| **All projects & builds** | [Home](https://neomatrix369.github.io/) · [Projects hub](https://neomatrix369.github.io/pages/projects.html) |
+| **Doc extract playground** (111 runs, 21 snapshots) | [Archive](https://neomatrix369.github.io/demos/playgroup-202602-docextract/) · [Write-up](https://neomatrix369.github.io/pages/playgroup-202602-docextract.html) |
+| **Doubleword extraction guide** | [Video walkthrough](https://neomatrix369.github.io/demos/playgroup-202602-docextract/extractor-all-doubleword.html) |
+| **Tripwire dashboard** | [Open dashboard](https://neomatrix369.github.io/demos/tripwire-dashboard/) |
+| **py-bug-trace sweep** (Poolside Laguna) | [Explorer](https://neomatrix369.github.io/demos/laguna-py-bug-trace/?view=explorer.html) · [Reports](https://neomatrix369.github.io/demos/laguna-py-bug-trace/) |
+| **Claude Code concept map** | [Interactive map](https://neomatrix369.github.io/demos/claude-code-concept-map.html) |
+
+<details>
+<summary><strong>Wins & in public ↓</strong></summary>
+
+<br/>
+
+Hackathon outcomes, published benchmarks, and partner shoutouts — each with LinkedIn posts. Also on the live site: [neomatrix369.github.io/#spotlight](https://neomatrix369.github.io/#spotlight).
+
+| Kind | Highlight | LinkedIn |
+|---|---|---|
+| **Win** | **UK AI Agent Lab** (Imperial × Google DeepMind) — Winner, Track 1 · Self-Improving Research Team (with Shritesh Jamulkar) | [Post ↗](https://lnkd.in/p/e93UGCsW) |
+| **Win** | **Agent vs Wall Street** (AI Tinkerers London) — 2nd Accuracy Track · Winner Social Media Track (with Devansh Karia & Jack Marshall) | [Post ↗](https://lnkd.in/p/emeGxSe4) |
+| **Shoutout** | **Superlinked × Qwen hackathon** · Tripwire featured among builds | [Recap ↗](https://lnkd.in/p/e-TTHGyq) · [Feature ↗](https://lnkd.in/p/eMB2XzQb) · [Event day ↗](https://lnkd.in/p/eGCaJpU6) |
+| **Results** | **Poolside Research Hackathon** · py-bug-trace (team Toolside) — 29-model sweep; Laguna-XS.2 inverted difficulty | [Post ↗](https://lnkd.in/p/e8ernHbX) |
+| **Results** | **Playgroup** · UK Charity Doc Extract — multi-provider LLM extraction leaderboard & write-up | [Post ↗](https://www.linkedin.com/feed/update/urn:li:share:7498176346951426048/) |
 
 </details>
 
