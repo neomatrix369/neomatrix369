@@ -25,7 +25,7 @@
 
 Lead software, data & ML engineer, mentor, and community builder — building in public, shipping production-grade systems, and making AI accessible through open source, benchmarks, and workshops.
 
-- 🛡️ **Security Champion** — builder of [Tripwire](https://github.com/neomatrix369/tripwire) ([hosted dashboard](https://neomatrix369.github.io/demos/tripwire-dashboard/)), sandboxed MCP/AI skills security scanning
+- 🛡️ **Security Champion** — builder of [AgentVetter](https://github.com/neomatrix369/agentvetter) ([hosted dashboard](https://neomatrix369.github.io/demos/agentvetter-dashboard/)), sandboxed MCP/AI skills security scanning
 - 🤖 **AI/ML Ambassador** — Kaggle Expert · KaggleX BIPOC Mentor · Certified AI Engineer · [Live builds on GitHub Pages](https://neomatrix369.github.io/)
 
 ---
@@ -34,7 +34,7 @@ Lead software, data & ML engineer, mentor, and community builder — building in
 
 | Project | What it does | Impact |
 |---|---|---|
-| [**tripwire**](https://github.com/neomatrix369/tripwire) | Sandboxed security scanning for AI skills and MCP servers — heatmap dashboard, fail-closed agent guard. **[Hosted dashboard →](https://neomatrix369.github.io/demos/tripwire-dashboard/)** | **Python · TypeScript** |
+| [**agentvetter**](https://github.com/neomatrix369/agentvetter) | Sandboxed security scanning for AI skills and MCP servers — heatmap dashboard, fail-closed agent guard. **[Hosted dashboard →](https://neomatrix369.github.io/demos/agentvetter-dashboard/)** | **Python · TypeScript** |
 | [**playgroup_202602_docextract**](https://github.com/neomatrix369/playgroup_202602_docextract) | LLM document-extraction benchmark — 111 scored runs across OpenRouter, Doubleword, V7 Go. **[Hosted playground →](https://neomatrix369.github.io/demos/playgroup-202602-docextract/)** | **Python · HTML** |
 | [**rag-params-finder**](https://github.com/neomatrix369/rag-params-finder) | RAG parameter sweep — embeddings × chunking × retrieval before you build. [SIE ecosystem →](https://neomatrix369.github.io/pages/projects.html#sie) | **12 ⭐ · 4 forks** |
 | [**sie**](https://github.com/neomatrix369/sie) | Superlinked Inference Engine — open-source inference cluster for agent workloads | **Python** |
@@ -86,7 +86,7 @@ Interactive pages on **[neomatrix369.github.io](https://neomatrix369.github.io/)
 | **All projects & builds** | [Home](https://neomatrix369.github.io/) · [Projects hub](https://neomatrix369.github.io/pages/projects.html) |
 | **Doc extract playground** (111 runs, 21 snapshots) | [Archive](https://neomatrix369.github.io/demos/playgroup-202602-docextract/) · [Write-up](https://neomatrix369.github.io/pages/playgroup-202602-docextract.html) |
 | **Doubleword extraction guide** | [Video walkthrough](https://neomatrix369.github.io/demos/playgroup-202602-docextract/extractor-all-doubleword.html) |
-| **Tripwire dashboard** | [Open dashboard](https://neomatrix369.github.io/demos/tripwire-dashboard/) |
+| **AgentVetter dashboard** | [Open dashboard](https://neomatrix369.github.io/demos/agentvetter-dashboard/) |
 | **py-bug-trace sweep** (Poolside Laguna) | [Explorer](https://neomatrix369.github.io/demos/laguna-py-bug-trace/?view=explorer.html) · [Reports](https://neomatrix369.github.io/demos/laguna-py-bug-trace/) |
 | **Claude Code concept map** | [Interactive map](https://neomatrix369.github.io/demos/claude-code-concept-map.html) |
 
@@ -101,7 +101,7 @@ Hackathon outcomes, published benchmarks, and partner shoutouts — each with Li
 |---|---|---|
 | **Win** | **UK AI Agent Lab** (Imperial × Google DeepMind) — Winner, Track 1 · Self-Improving Research Team (with Shritesh Jamulkar) | [Post ↗](https://lnkd.in/p/e93UGCsW) |
 | **Win** | **Agent vs Wall Street** (AI Tinkerers London) — 2nd Accuracy Track · Winner Social Media Track (with Devansh Karia & Jack Marshall) | [Post ↗](https://lnkd.in/p/emeGxSe4) |
-| **Shoutout** | **Superlinked × Qwen hackathon** · Tripwire featured among builds | [Recap ↗](https://lnkd.in/p/e-TTHGyq) · [Feature ↗](https://lnkd.in/p/eMB2XzQb) · [Event day ↗](https://lnkd.in/p/eGCaJpU6) |
+| **Shoutout** | **Superlinked × Qwen hackathon** · AgentVetter featured among builds | [Recap ↗](https://lnkd.in/p/e-TTHGyq) · [Feature ↗](https://lnkd.in/p/eMB2XzQb) · [Event day ↗](https://lnkd.in/p/eGCaJpU6) |
 | **Results** | **Poolside Research Hackathon** · py-bug-trace (team Toolside) — 29-model sweep; Laguna-XS.2 inverted difficulty | [Post ↗](https://lnkd.in/p/e8ernHbX) |
 | **Results** | **Playgroup** · UK Charity Doc Extract — multi-provider LLM extraction leaderboard & write-up | [Post ↗](https://www.linkedin.com/feed/update/urn:li:share:7498176346951426048/) |
 
@@ -140,7 +140,7 @@ Hackathon outcomes, published benchmarks, and partner shoutouts — each with Li
 |---|---|---|
 | 🏆 **Winner — Track 1** | UK AI Agent Lab (Imperial × Google DeepMind) | [LinkedIn ↗](https://lnkd.in/p/e93UGCsW) |
 | 🥈 **2nd Accuracy** · 🏆 **Social Media Winner** | Agent vs Wall Street (AI Tinkerers) | [LinkedIn ↗](https://lnkd.in/p/emeGxSe4) |
-| 📣 **Partner shoutout** | Superlinked × Qwen · Tripwire | [Recap ↗](https://lnkd.in/p/e-TTHGyq) · [Feature ↗](https://lnkd.in/p/eMB2XzQb) · [Event ↗](https://lnkd.in/p/eGCaJpU6) |
+| 📣 **Partner shoutout** | Superlinked × Qwen · AgentVetter | [Recap ↗](https://lnkd.in/p/e-TTHGyq) · [Feature ↗](https://lnkd.in/p/eMB2XzQb) · [Event ↗](https://lnkd.in/p/eGCaJpU6) |
 | 🥇 **Top 12%** | [Liverpool Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching) | [tweet ↗](https://mobile.twitter.com/theNeomatrix369/status/1265411110473252866) |
 | 🏆 **Team Champion** | London Kaggle ML Challenger Day | [tweet ↗](https://twitter.com/theNeomatrix369/status/1229832263514365952) |
 | 🥇 **Top 6 of 50+** | 2019 Kaggle Utility Script Competition | [tweet ↗](https://twitter.com/kaggle/status/1186429624437182465) |
