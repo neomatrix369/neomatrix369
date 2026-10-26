@@ -35,9 +35,11 @@ Lead software, data & ML engineer, mentor, and community builder — building in
 | Project | What it does | Impact |
 |---|---|---|
 | [**agentvetter**](https://github.com/neomatrix369/agentvetter) | Sandboxed security scanning for AI skills and MCP servers — heatmap dashboard, fail-closed agent guard. **[Hosted dashboard →](https://neomatrix369.github.io/demos/agentvetter-dashboard/)** | **Python · TypeScript** |
-| [**playgroup_202602_docextract**](https://github.com/neomatrix369/playgroup_202602_docextract) | LLM document-extraction benchmark — 111 scored runs across OpenRouter, Doubleword, V7 Go. **[Hosted playground →](https://neomatrix369.github.io/demos/playgroup-202602-docextract/)** | **Python · HTML** |
-| [**rag-params-finder**](https://github.com/neomatrix369/rag-params-finder) | RAG parameter sweep — embeddings × chunking × retrieval before you build. [SIE ecosystem →](https://neomatrix369.github.io/pages/projects.html#sie) | **12 ⭐ · 4 forks** |
+| [**playgroup_202602_docextract**](https://github.com/neomatrix369/playgroup_202602_docextract) | LLM document-extraction benchmark — 122 scored runs across OpenRouter, Doubleword, V7 Go. **[Hosted playground →](https://neomatrix369.github.io/demos/playgroup-202602-docextract/)** | **Python · HTML** |
+| [**rag-params-finder**](https://github.com/neomatrix369/rag-params-finder) | RAG parameter sweep — embeddings × chunking × retrieval before you build. [SIE ecosystem →](https://neomatrix369.github.io/pages/projects.html#sie) | **19 ⭐ · 4 forks** |
 | [**sie**](https://github.com/neomatrix369/sie) | Superlinked Inference Engine — open-source inference cluster for agent workloads | **Python** |
+| [**self-improving-teams**](https://github.com/neomatrix369/self-improving-teams) | **Winner (Track 1) · UK AI Agent Lab (Imperial × Google DeepMind)** — self-improving multi-agent research pipeline using Gemini & Mem0 MCP | **TypeScript** |
+| [**falsifybench**](https://github.com/neomatrix369/falsifybench) | Adversarial falsification benchmark for science & engineering agents (`evidence → baseline → falsification check → guarded verdict`) | **TypeScript** |
 | [**HuggingFace Datasets**](https://huggingface.co/neomatrix369/datasets) | 16 evaluation datasets · [Laguna hackathon](https://huggingface.co/poolside-laguna-hackathon/laguna-eval-experiments) contributions | **Active** |
 | [**awesome-ai-ml-dl**](https://github.com/neomatrix369/awesome-ai-ml-dl) | Curated AI/ML/DL study notes and resources | **1.7k+ ⭐** |
 
@@ -65,6 +67,7 @@ Lead software, data & ML engineer, mentor, and community builder — building in
 |---|---|---|
 | [**awesome-graal**](https://github.com/neomatrix369/awesome-graal) | GraalVM, Truffle, and polyglot JVM resource hub | **369 ⭐** |
 | [**refactoring-developer-habits**](https://github.com/neomatrix369/refactoring-developer-habits) | Community TDD manifesto — SoCraTes UK 2013 | **141 ⭐** |
+| [**chatbot-conversations**](https://github.com/neomatrix369/chatbot-conversations) | Multi-chatbot conversation system (Eliza + NLP + GraalVM / Helidon / Quarkus / Flask) | **37 ⭐ · Java & Python** |
 | [**learning-path-index**](https://github.com/neomatrix369/learning-path-index) | Structured learning path index — data and assets | **18 ⭐** |
 | [**RESTAPIUnifier**](https://github.com/neomatrix369/RESTAPIUnifier) | Unified interface across REST API formats | **8 ⭐ · Java** |
 | [**better-nlp**](http://bit.ly/better-nlp-launch) | Accessible NLP library | Open source |
@@ -84,7 +87,7 @@ Interactive pages on **[neomatrix369.github.io](https://neomatrix369.github.io/)
 | Build | Link |
 |---|---|
 | **All projects & builds** | [Home](https://neomatrix369.github.io/) · [Projects hub](https://neomatrix369.github.io/pages/projects.html) |
-| **Doc extract playground** (111 runs, 21 snapshots) | [Archive](https://neomatrix369.github.io/demos/playgroup-202602-docextract/) · [Write-up](https://neomatrix369.github.io/pages/playgroup-202602-docextract.html) |
+| **Doc extract playground** (122 runs, 25 snapshots) | [Archive](https://neomatrix369.github.io/demos/playgroup-202602-docextract/) · [Write-up](https://neomatrix369.github.io/pages/playgroup-202602-docextract.html) |
 | **Doubleword extraction guide** | [Video walkthrough](https://neomatrix369.github.io/demos/playgroup-202602-docextract/extractor-all-doubleword.html) |
 | **AgentVetter dashboard** | [Open dashboard](https://neomatrix369.github.io/demos/agentvetter-dashboard/) |
 | **py-bug-trace sweep** (Poolside Laguna) | [Explorer](https://neomatrix369.github.io/demos/laguna-py-bug-trace/?view=explorer.html) · [Reports](https://neomatrix369.github.io/demos/laguna-py-bug-trace/) |
@@ -99,7 +102,7 @@ Hackathon outcomes and published benchmarks — each with LinkedIn posts. Also o
 
 | Kind | Highlight | LinkedIn |
 |---|---|---|
-| **Win** | **UK AI Agent Lab** (Imperial × Google DeepMind) — Winner, Track 1 · Self-Improving Research Team (with Shritesh Jamulkar) | [Post ↗](https://lnkd.in/p/e93UGCsW) |
+| **Win** | **UK AI Agent Lab** (Imperial × Google DeepMind) — Winner, Track 1 · Self-Improving Research Team (with Shritesh Jamulkar) | [Repo ↗](https://github.com/neomatrix369/self-improving-teams) · [Post ↗](https://lnkd.in/p/e93UGCsW) |
 | **Win** | **Agent vs Wall Street** (AI Tinkerers London) — 2nd Accuracy Track · Winner Social Media Track (with Devansh Karia & Jack Marshall) | [Post ↗](https://lnkd.in/p/emeGxSe4) |
 | **Results** | **Poolside Research Hackathon** · py-bug-trace (team Toolside) — 29-model sweep; Laguna-XS.2 inverted difficulty | [Post ↗](https://lnkd.in/p/e8ernHbX) |
 | **Results** | **Playgroup** · UK Charity Doc Extract — multi-provider LLM extraction leaderboard & write-up | [Post ↗](https://www.linkedin.com/feed/update/urn:li:share:7498176346951426048/) |
@@ -113,7 +116,7 @@ Hackathon outcomes and published benchmarks — each with LinkedIn posts. Also o
 <table>
 <tr>
 <td align="center" width="190">
-🤖<br/><strong>Certified AI Engineer</strong><br/><sub><a href="https://aimakerspace.io/the-ai-engineering-bootcamp/">AI Makerspace</a></sub>
+🤖<br/><strong>Certified AI Engineer</strong><br/><sub><a href="https://aimakerspace.io/the-ai-engineering-bootcamp/">AI Makerspace</a> · <a href="https://github.com/neomatrix369/AIE7-Cert-Challenge">Cert Repo</a></sub>
 </td>
 <td align="center" width="190">
 🎯<br/><strong>4× Kaggle Expert</strong><br/><sub>Competitions · Notebooks · Datasets</sub>
@@ -137,7 +140,7 @@ Hackathon outcomes and published benchmarks — each with LinkedIn posts. Also o
 
 | Result | Competition | Proof |
 |---|---|---|
-| 🏆 **Winner — Track 1** | UK AI Agent Lab (Imperial × Google DeepMind) | [LinkedIn ↗](https://lnkd.in/p/e93UGCsW) |
+| 🏆 **Winner — Track 1** | UK AI Agent Lab (Imperial × Google DeepMind) | [Repo ↗](https://github.com/neomatrix369/self-improving-teams) · [LinkedIn ↗](https://lnkd.in/p/e93UGCsW) |
 | 🥈 **2nd Accuracy** · 🏆 **Social Media Winner** | Agent vs Wall Street (AI Tinkerers) | [LinkedIn ↗](https://lnkd.in/p/emeGxSe4) |
 | 🥇 **Top 12%** | [Liverpool Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching) | [tweet ↗](https://mobile.twitter.com/theNeomatrix369/status/1265411110473252866) |
 | 🏆 **Team Champion** | London Kaggle ML Challenger Day | [tweet ↗](https://twitter.com/theNeomatrix369/status/1229832263514365952) |
